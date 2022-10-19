@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<html lang="en">
+<head>
+    <title>Home page</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: 'verdana';
+            background-image: url('image/Background02.jpg');
+            background-size: 1400px 880px;
+        }
+        h1 {
+            font-family: 'verdana';
+            font-weight: 700;
+            height : 20px;
+            text-align: center;
+        }
+        p {
+            font-family: 'verdana';
+            font-size: 12px;
+        }
+        .header {
+            background : #ffe135;
+			height : 40px;
+            text-align: center;
+            color: black;
+            box-sizing: border-box;
+        }
+        ul {
+            list-style-type: none;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            background-color: #333;
+        }
+        li {
+            display: inline-block;
+        }
+        li a {
+            text-align: center;
+            display: block;
+            color: white;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+        li a:hover {
+            background-color: #111;
+        }
+        .image {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        .column {
+            float: left;
+            width: 32%;
+            padding: 5px;
+        }
+        .row::after {
+            content: "";
+            clear: both;
+            display: table;
+        }
+    </style>
+</head>
+<body>
+<div class="header">
+    <h1>Welcome to Henry Chau’s Home</h1>
+</div>
+<div>
+    <div>
+        <p>
+          <ul>
+            <li><a href="portfolio.html" target="_self">Personal portfolio page</a></li>
+            <li><a href="hobbies.html" target="_self">Hobbies page</a></li>
+          </ul>
+        </p>
+    </div>
+
+    <div class="row">
+        <div class="column">
+          <img src="image/BBHK.jpg" style="width:100%">
+        </div>
+        <div class="column">
+          <img src="image/graduation.jpg" style="width:100%">
+        </div>
+        <div class="column">
+            <img src="image/graddin.jpg" style="width:100%">
+        </div>
+      </div>
+</div>
+</body>
+</html>
