@@ -1,5 +1,20 @@
 [
     {
+        "id": 1009,
+        "name": "iPhone X",
+        "imageName": "iphoneX",
+        "isNewModel": false,
+        "height": 130,
+        "finish": ["Silver", "Space Gray"],
+        "price": 0,
+        "tradeInPrice": 130,
+        "storage": ["64GB", "128GB", "256GB"],
+        "featureTitle": ["String"],
+        "featureContent": ["String"],
+        "featureImages": ["String"],
+        "displayInches": "5.8"
+    },
+    {
         "id": 1010,
         "name": "iPhone X",
         "imageName": "iphoneX",
