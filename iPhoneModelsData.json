@@ -5,7 +5,7 @@
         "imageName": "iphoneX",
         "isNewModel": false,
         "height": 130,
-        "finish": ["Silver", "Space Gray"],
+        "finish": ["Space Gray", "Silver"],
         "price": 0,
         "tradeInPrice": 130,
         "storage": ["64GB", "128GB", "256GB"],
