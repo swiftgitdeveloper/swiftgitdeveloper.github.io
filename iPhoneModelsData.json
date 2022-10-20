@@ -1,35 +1,5 @@
 [
     {
-        "id": 1008,
-        "name": "iPhone 8",
-        "imageName": "iphoneSE",
-        "isNewModel": false,
-        "height": 110,
-        "finish": ["Space Gray", "Silver", "Gold"],
-        "price": 0,
-        "tradeInPrice": 130,
-        "storage": ["64GB", "128GB", "256GB"],
-        "featureTitle": ["String"],
-        "featureContent": ["String"],
-        "featureImages": ["String"],
-        "displayInches": "4.7"
-    },
-    {
-        "id": 1009,
-        "name": "iPhone 8 Plus",
-        "imageName": "iphoneSE",
-        "isNewModel": false,
-        "height": 125,
-        "finish": ["Space Gray", "Silver", "Gold"],
-        "price": 0,
-        "tradeInPrice": 130,
-        "storage": ["64GB", "128GB", "256GB"],
-        "featureTitle": ["String"],
-        "featureContent": ["String"],
-        "featureImages": ["String"],
-        "displayInches": "5.5"
-    },
-    {
         "id": 1010,
         "name": "iPhone X",
         "imageName": "iphoneX",
