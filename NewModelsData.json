@@ -2,7 +2,7 @@
     {
         "id": 1027,
         "name": "iPhone SE\n(3rd generation)",
-        "imageName": "iphoneSE3rdgen",
+        "imageName": "https://swiftgitdeveloper.github.io/ImageAsset/iphoneSE3rdgen.png",
         "isNewModel": true,
         "height": 110,
         "finish": ["Midnight", "Starlight", "(PRODUCT)RED"],
@@ -17,7 +17,7 @@
     {
         "id": 1028,
         "name": "iPhone 14",
-        "imageName": "iphone14",
+        "imageName": "https://swiftgitdeveloper.github.io/ImageAsset/iphone14.png",
         "isNewModel": true,
         "height": 140,
         "finish": ["Blue", "Purple", "Midnight", "Starlight", "(PRODUCT)RED"],
@@ -32,7 +32,7 @@
     {
         "id": 1029,
         "name": "iPhone 14 Plus",
-        "imageName": "iphone14plus",
+        "imageName": "https://swiftgitdeveloper.github.io/ImageAsset/iphone14plus.png",
         "isNewModel": true,
         "height": 160,
         "finish": ["Blue", "Purple", "Midnight", "Starlight", "(PRODUCT)RED"],
@@ -47,7 +47,7 @@
     {
         "id": 1030,
         "name": "iPhone 14 Pro",
-        "imageName": "iphone14pro",
+        "imageName": "https://swiftgitdeveloper.github.io/ImageAsset/iphone14pro.png",
         "isNewModel": true,
         "height": 140,
         "finish": ["Deep Purple", "Gold", "Silver", "Space Black"],
@@ -62,7 +62,7 @@
     {
         "id": 1031,
         "name": "iPhone 14 Pro Max",
-        "imageName": "iphone14promax",
+        "imageName": "https://swiftgitdeveloper.github.io/ImageAsset/iphone14promax.png",
         "isNewModel": true,
         "height": 160,
         "finish": ["Deep Purple", "Gold", "Silver", "Space Black"],
