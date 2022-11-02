@@ -8,7 +8,7 @@
             "longitude": -119.032662,
             "latitude": 35.337895
         },
-        "imageName": "applevalleyplaza",
+        "imageName": "https://swiftgitdeveloper.github.io/AppleStoreImage/applevalleyplaza.jpg",
         "address": "2701 Ming Avenue\nBakersfield, CA 93304\n(661) 396-3480"
     },
     {
@@ -20,7 +20,7 @@
             "longitude": -122.300234,
             "latitude": 37.869310
         },
-        "imageName": "apple4thstreet",
+        "imageName": "https://swiftgitdeveloper.github.io/AppleStoreImage/apple4thstreet.jpg",
         "address": "1823 4th Street\nBerkeley, CA 94710\n(510) 898-3341"
     },
     {
@@ -32,7 +32,7 @@
             "longitude": -117.886706,
             "latitude": 33.915829
         },
-        "imageName": "applebreamall",
+        "imageName": "https://swiftgitdeveloper.github.io/AppleStoreImage/applebreamall.jpg",
         "address": "1016C Brea Mall\nBrea, CA 92821\n(714) 989-5550"
     },
     {
@@ -44,7 +44,7 @@
             "longitude": -122.347080,
             "latitude": 37.578270
         },
-        "imageName": "appleburlingame",
+        "imageName": "https://swiftgitdeveloper.github.io/AppleStoreImage/appleburlingame.jpg",
         "address": "1301 Burlingame Avenue\nBurlingame, CA 94010\n(650) 645-8930"
     },
     {
@@ -56,7 +56,7 @@
             "longitude": -118.603203,
             "latitude": 34.190336
         },
-        "imageName": "appletopanga",
+        "imageName": "https://swiftgitdeveloper.github.io/AppleStoreImage/appletopanga.jpg",
         "address": "6600 Topanga Canyon Boulevard\nCanoga Park, CA 91303\n(818) 577-1800"
     },
     {
@@ -68,7 +68,7 @@
             "longitude": -117.265309,
             "latitude": 33.071305
         },
-        "imageName": "applecarlsbad",
+        "imageName": "https://swiftgitdeveloper.github.io/AppleStoreImage/applecarlsbad.jpg",
         "address": "1923 Calle Barcelona\nCarlsbad, CA 92009\n(760) 697-9800"
     },
     {
@@ -80,7 +80,7 @@
             "longitude": -118.093947,
             "latitude": 33.862468
         },
-        "imageName": "appleloscerritos",
+        "imageName": "https://swiftgitdeveloper.github.io/AppleStoreImage/appleloscerritos.jpg",
         "address": "242 Los Cerritos Center\nCerritos, CA 90703\n(562) 356-1555"
     },
     {
@@ -92,7 +92,7 @@
             "longitude": -116.966665,
             "latitude": 32.624043
         },
-        "imageName": "appleotayranch",
+        "imageName": "https://swiftgitdeveloper.github.io/AppleStoreImage/appleotayranch.jpg",
         "address": "2015 Birch Road\nChula Vista, CA 91915\n(619) 205-6400"
     },
     {
@@ -104,7 +104,7 @@
             "longitude": -122.514235,
             "latitude": 37.928635
         },
-        "imageName": "applecortemadera",
+        "imageName": "https://swiftgitdeveloper.github.io/AppleStoreImage/applecortemadera.jpg",
         "address": "1520 Redwood Highway\nCorte Madera, CA 94925\n(415) 413-9120"
     },
     {
@@ -116,7 +116,7 @@
             "longitude": -117.893193,
             "latitude": 33.692076
         },
-        "imageName": "applesouthcoastplaza",
+        "imageName": "https://swiftgitdeveloper.github.io/AppleStoreImage/applesouthcoastplaza.jpg",
         "address": ""
     },
     {
@@ -128,7 +128,7 @@
             "longitude": -122.030503,
             "latitude": 37.331423
         },
-        "imageName": "infiniteloop",
+        "imageName": "https://swiftgitdeveloper.github.io/AppleStoreImage/infiniteloop.jpg",
         "address": "One Infinite Loop\nCupertino, CA 95014\n(408) 606-5775"
     },
     {
@@ -140,7 +140,7 @@
             "longitude": -122.005354,
             "latitude": 37.332835
         },
-        "imageName": "appleparkvisitorcenter",
+        "imageName": "https://swiftgitdeveloper.github.io/AppleStoreImage/appleparkvisitorcenter.jpg",
         "address": "10600 North Tantau Avenue\nCupertino, CA 95014\n(408) 961-1560"
     }
     
