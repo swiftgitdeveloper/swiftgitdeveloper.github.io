@@ -200,7 +200,7 @@
         "displayInches": "6.7"
     },
     {
-        "id": 1027,
+        "id": 1026,
         "name": "iPhone SE\n(3rd generation)",
         "imageName": "https://swiftgitdeveloper.github.io/ImageAsset/iphoneSE3rdgen.png",
         "height": 110,
@@ -208,7 +208,7 @@
         "displayInches": "4.7"
     },
     {
-        "id": 1028,
+        "id": 1027,
         "name": "iPhone 14",
         "imageName": "https://swiftgitdeveloper.github.io/ImageAsset/iphone14.png",
         "height": 140,
@@ -216,7 +216,7 @@
         "displayInches": "6.1"
     },
     {
-        "id": 1029,
+        "id": 1028,
         "name": "iPhone 14 Plus",
         "imageName": "https://swiftgitdeveloper.github.io/ImageAsset/iphone14plus.png",
         "height": 160,
@@ -224,7 +224,7 @@
         "displayInches": "6.7"
     },
     {
-        "id": 1030,
+        "id": 1029,
         "name": "iPhone 14 Pro",
         "imageName": "https://swiftgitdeveloper.github.io/ImageAsset/iphone14pro.png",
         "height": 140,
@@ -232,7 +232,7 @@
         "displayInches": "6.1"
     },
     {
-        "id": 1031,
+        "id": 1030,
         "name": "iPhone 14 Pro Max",
         "imageName": "https://swiftgitdeveloper.github.io/ImageAsset/iphone14promax.png",
         "height": 160,
