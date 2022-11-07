@@ -4,7 +4,6 @@
         "name": "iPhone SE\n(1st generation)",
         "imageName": "https://swiftgitdeveloper.github.io/ImageAsset/iphoneSE1st.png",
         "height": 100,
-        "finish": ["Midnight", "Starlight", "(PRODUCT)RED"],
         "price": 0,
         "displayInches": "4.0"
     },
@@ -13,8 +12,7 @@
         "name": "iPhone 6",
         "imageName": "https://swiftgitdeveloper.github.io/ImageAsset/iphone6.png",
         "height": 110,
-        "finish": ["Midnight", "Starlight", "(PRODUCT)RED"],
-        "price": 0
+        "price": 0,
         "displayInches": "4.7"
     },
     {
@@ -22,8 +20,7 @@
         "name": "iPhone 6 Plus",
         "imageName": "https://swiftgitdeveloper.github.io/ImageAsset/iphone6plus.png",
         "height": 125,
-        "finish": ["Midnight", "Starlight", "(PRODUCT)RED"],
-        "price": 0
+        "price": 0,
         "displayInches": "5.5"
     },
     {
@@ -31,7 +28,6 @@
         "name": "iPhone 6s",
         "imageName": "https://swiftgitdeveloper.github.io/ImageAsset/iphone6s.png",
         "height": 110,
-        "finish": ["Midnight", "Starlight", "(PRODUCT)RED"],
         "price": 0
         "displayInches": "4.7"
     },
@@ -40,8 +36,7 @@
         "name": "iPhone 6s Plus",
         "imageName": "https://swiftgitdeveloper.github.io/ImageAsset/iphone6splus.png",
         "height": 125,
-        "finish": ["Midnight", "Starlight", "(PRODUCT)RED"],
-        "price": 0
+        "price": 0,
         "displayInches": "5.5"
     },
     {
@@ -49,8 +44,7 @@
         "name": "iPhone 7",
         "imageName": "https://swiftgitdeveloper.github.io/ImageAsset/iphone7.png",
         "height": 110,
-        "finish": ["Midnight", "Starlight", "(PRODUCT)RED"],
-        "price": 0
+        "price": 0,
         "displayInches": "4.7"
     },
     {
@@ -58,8 +52,7 @@
         "name": "iPhone 7 Plus",
         "imageName": "https://swiftgitdeveloper.github.io/ImageAsset/iphone7plus.png",
         "height": 125,
-        "finish": ["Midnight", "Starlight", "(PRODUCT)RED"],
-        "price": 0
+        "price": 0,
         "displayInches": "5.5"
     },
     {
@@ -67,8 +60,7 @@
         "name": "iPhone 8",
         "imageName": "https://swiftgitdeveloper.github.io/ImageAsset/iphone8.png",
         "height": 110,
-        "finish": ["Midnight", "Starlight", "(PRODUCT)RED"],
-        "price": 0
+        "price": 0,
         "displayInches": "4.7"
     },
     {
@@ -76,8 +68,7 @@
         "name": "iPhone 8 Plus",
         "imageName": "https://swiftgitdeveloper.github.io/ImageAsset/iphone8plus.png",
         "height": 125,
-        "finish": ["Midnight", "Starlight", "(PRODUCT)RED"],
-        "price": 0
+        "price": 0,
         "displayInches": "5.5"
     },
     {
@@ -85,7 +76,6 @@
         "name": "iPhone X",
         "imageName": "https://swiftgitdeveloper.github.io/ImageAsset/iphoneX.png",
         "height": 130,
-        "finish": ["Space Gray", "Silver"],
         "price": 0,
         "displayInches": "5.8"
     },
@@ -94,8 +84,7 @@
         "name": "iPhone XR",
         "imageName": "https://swiftgitdeveloper.github.io/ImageAsset/iphoneXR.png",
         "height": 140,
-        "finish": ["Gold", "Silver", "Space Gray"],
-        "price": 0
+        "price": 0,
         "displayInches": "6.1"
     },
     {
@@ -103,8 +92,7 @@
         "name": "iPhone XS",
         "imageName": "https://swiftgitdeveloper.github.io/ImageAsset/iphoneXS.png",
         "height": 130,
-        "finish": ["Gold", "Silver", "Space Gray"],
-        "price": 0
+        "price": 0,
         "displayInches": "5.8"
     },
     {
@@ -112,8 +100,7 @@
         "name": "iPhone XS Max",
         "imageName": "https://swiftgitdeveloper.github.io/ImageAsset/iphoneXSmax.png",
         "height": 150,
-        "finish": ["Gold", "Silver", "Space Gray"],
-        "price": 0
+        "price": 0,
         "displayInches": "6.5"
     },
     {
@@ -121,8 +108,7 @@
         "name": "iPhone SE\n(2nd generation)",
         "imageName": "https://swiftgitdeveloper.github.io/ImageAsset/iphoneSE.png",
         "height": 110,
-        "finish": ["Midnight", "Starlight", "(PRODUCT)RED"],
-        "price": 0
+        "price": 0,
         "displayInches": "4.7"
     },
     {
@@ -130,8 +116,7 @@
         "name": "iPhone 11",
         "imageName": "https://swiftgitdeveloper.github.io/ImageAsset/iphone11.png",
         "height": 140,
-        "finish": ["Yellow", "Purple", "Green", "White", "Black", "(PRODUCT)RED"],
-        "price": 0
+        "price": 0,
         "displayInches": "6.1"
     },
     {
@@ -139,8 +124,7 @@
         "name": "iPhone 11 Pro",
         "imageName": "https://swiftgitdeveloper.github.io/ImageAsset/iphone11pro.png",
         "height": 130,
-        "finish": ["Midnight Green", "Gold", "Silver", "Space Gray"],
-        "price": 0
+        "price": 0,
         "displayInches": "5.8"
     },
     {
@@ -148,8 +132,7 @@
         "name": "iPhone 11 Pro Max",
         "imageName": "https://swiftgitdeveloper.github.io/ImageAsset/iphone11promax.png",
         "height": 150,
-        "finish": ["Midnight Green", "Gold", "Silver", "Space Gray"],
-        "price": 0
+        "price": 0,
         "displayInches": "6.5"
     },
     {
@@ -157,8 +140,7 @@
         "name": "iPhone 12 Mini",
         "imageName": "https://swiftgitdeveloper.github.io/ImageAsset/iphone12minipurple.png",
         "height": 120,
-        "finish": ["Blue", "Purple", "Green", "White", "Black", "(PRODUCT)RED"],
-        "price": 0
+        "price": 0,
         "displayInches": "5.4"
     },
     {
@@ -166,8 +148,7 @@
         "name": "iPhone 12",
         "imageName": "https://swiftgitdeveloper.github.io/ImageAsset/iphone12purple.png",
         "height": 140,
-        "finish": ["Blue", "Purple", "Green", "White", "Black", "(PRODUCT)RED"],
-        "price": 599
+        "price": 599,
         "displayInches": "6.1"
     },
     {
@@ -175,8 +156,7 @@
         "name": "iPhone 12 Pro",
         "imageName": "https://swiftgitdeveloper.github.io/ImageAsset/iphone12pro.png",
         "height": 140,
-        "finish": ["Pacific Blue", "Gold", "Silver", "Graphite"],
-        "price": 0
+        "price": 0,
         "displayInches": "6.1"
     },
     {
@@ -184,8 +164,7 @@
         "name": "iPhone 12 Pro Max",
         "imageName": "https://swiftgitdeveloper.github.io/ImageAsset/iphone12promax.png",
         "height": 160,
-        "finish": ["Pacific Blue", "Gold", "Silver", "Graphite"],
-        "price": 0
+        "price": 0,
         "displayInches": "6.7"
     },
     {
@@ -193,8 +172,7 @@
         "name": "iPhone 13 Mini",
         "imageName": "https://swiftgitdeveloper.github.io/ImageAsset/iphone13mini.png",
         "height": 120,
-        "finish": ["Pink", "Blue", "Midnight", "Starlight", "Green", "(PRODUCT)RED"],
-        "price": 599
+        "price": 599,
         "displayInches": "5.4"
     },
     {
@@ -202,8 +180,7 @@
         "name": "iPhone 13",
         "imageName": "https://swiftgitdeveloper.github.io/ImageAsset/iphone13.png",
         "height": 140,
-        "finish": ["Pink", "Blue", "Midnight", "Starlight", "Green", "(PRODUCT)RED"],
-        "price": 699
+        "price": 699,
         "displayInches": "6.1"
     },
     {
@@ -211,8 +188,7 @@
         "name": "iPhone 13 Pro",
         "imageName": "https://swiftgitdeveloper.github.io/ImageAsset/iphone13pro.png",
         "height": 140,
-        "finish": ["Sierra Blue", "Gold", "Silver", "Graphite", "Alpine Green"],
-        "price": 0
+        "price": 0,
         "displayInches": "6.1"
     },
     {
@@ -220,8 +196,7 @@
         "name": "iPhone 13 Pro Max",
         "imageName": "https://swiftgitdeveloper.github.io/ImageAsset/iphone13promax.png",
         "height": 160,
-        "finish": ["Sierra Blue", "Gold", "Silver", "Graphite", "Alpine Green"],
-        "price": 0
+        "price": 0,
         "displayInches": "6.7"
     }
     {
@@ -229,8 +204,7 @@
         "name": "iPhone SE\n(3rd generation)",
         "imageName": "https://swiftgitdeveloper.github.io/ImageAsset/iphoneSE3rdgen.png",
         "height": 110,
-        "finish": ["Midnight", "Starlight", "(PRODUCT)RED"],
-        "price": 429
+        "price": 429,
         "displayInches": "4.7"
     },
     {
@@ -238,7 +212,6 @@
         "name": "iPhone 14",
         "imageName": "https://swiftgitdeveloper.github.io/ImageAsset/iphone14.png",
         "height": 140,
-        "finish": ["Blue", "Purple", "Midnight", "Starlight", "(PRODUCT)RED"],
         "price": 799,
         "displayInches": "6.1"
     },
@@ -247,8 +220,7 @@
         "name": "iPhone 14 Plus",
         "imageName": "https://swiftgitdeveloper.github.io/ImageAsset/iphone14plus.png",
         "height": 160,
-        "finish": ["Blue", "Purple", "Midnight", "Starlight", "(PRODUCT)RED"],
-        "price": 899
+        "price": 899,
         "displayInches": "6.7"
     },
     {
@@ -256,7 +228,6 @@
         "name": "iPhone 14 Pro",
         "imageName": "https://swiftgitdeveloper.github.io/ImageAsset/iphone14pro.png",
         "height": 140,
-        "finish": ["Deep Purple", "Gold", "Silver", "Space Black"],
         "price": 999,
         "displayInches": "6.1"
     },
@@ -265,7 +236,6 @@
         "name": "iPhone 14 Pro Max",
         "imageName": "https://swiftgitdeveloper.github.io/ImageAsset/iphone14promax.png",
         "height": 160,
-        "finish": ["Deep Purple", "Gold", "Silver", "Space Black"],
         "price": 1099,
         "displayInches": "6.7"
     }
