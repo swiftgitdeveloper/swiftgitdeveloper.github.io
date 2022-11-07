@@ -28,7 +28,7 @@
         "name": "iPhone 6s",
         "imageName": "https://swiftgitdeveloper.github.io/ImageAsset/iphone6s.png",
         "height": 110,
-        "price": 0
+        "price": 0,
         "displayInches": "4.7"
     },
     {
