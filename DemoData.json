@@ -3,7 +3,7 @@
         "id": 1001,
         "name": "iPhone SE\n(1st generation)",
         "imageName": "https://swiftgitdeveloper.github.io/ImageAsset/iphoneSE1st.png",
-        "height": 100,
+        "height": 100.0,
         "price": 0,
         "displayInches": "4.0"
     },
@@ -11,7 +11,7 @@
         "id": 1002,
         "name": "iPhone 6",
         "imageName": "https://swiftgitdeveloper.github.io/ImageAsset/iphone6.png",
-        "height": 110,
+        "height": 110.0,
         "price": 0,
         "displayInches": "4.7"
     },
@@ -19,7 +19,7 @@
         "id": 1003,
         "name": "iPhone 6 Plus",
         "imageName": "https://swiftgitdeveloper.github.io/ImageAsset/iphone6plus.png",
-        "height": 125,
+        "height": 125.0,
         "price": 0,
         "displayInches": "5.5"
     },
@@ -27,7 +27,7 @@
         "id": 1004,
         "name": "iPhone 6s",
         "imageName": "https://swiftgitdeveloper.github.io/ImageAsset/iphone6s.png",
-        "height": 110,
+        "height": 110.0,
         "price": 0,
         "displayInches": "4.7"
     },
@@ -35,7 +35,7 @@
         "id": 1005,
         "name": "iPhone 6s Plus",
         "imageName": "https://swiftgitdeveloper.github.io/ImageAsset/iphone6splus.png",
-        "height": 125,
+        "height": 125.0,
         "price": 0,
         "displayInches": "5.5"
     },
@@ -43,7 +43,7 @@
         "id": 1006,
         "name": "iPhone 7",
         "imageName": "https://swiftgitdeveloper.github.io/ImageAsset/iphone7.png",
-        "height": 110,
+        "height": 110.0,
         "price": 0,
         "displayInches": "4.7"
     },
@@ -51,7 +51,7 @@
         "id": 1007,
         "name": "iPhone 7 Plus",
         "imageName": "https://swiftgitdeveloper.github.io/ImageAsset/iphone7plus.png",
-        "height": 125,
+        "height": 125.0,
         "price": 0,
         "displayInches": "5.5"
     },
@@ -59,7 +59,7 @@
         "id": 1008,
         "name": "iPhone 8",
         "imageName": "https://swiftgitdeveloper.github.io/ImageAsset/iphone8.png",
-        "height": 110,
+        "height": 110.0,
         "price": 0,
         "displayInches": "4.7"
     },
@@ -67,7 +67,7 @@
         "id": 1009,
         "name": "iPhone 8 Plus",
         "imageName": "https://swiftgitdeveloper.github.io/ImageAsset/iphone8plus.png",
-        "height": 125,
+        "height": 125.0,
         "price": 0,
         "displayInches": "5.5"
     },
@@ -75,7 +75,7 @@
         "id": 1010,
         "name": "iPhone X",
         "imageName": "https://swiftgitdeveloper.github.io/ImageAsset/iphoneX.png",
-        "height": 130,
+        "height": 130.0,
         "price": 0,
         "displayInches": "5.8"
     },
@@ -83,7 +83,7 @@
         "id": 1011,
         "name": "iPhone XR",
         "imageName": "https://swiftgitdeveloper.github.io/ImageAsset/iphoneXR.png",
-        "height": 140,
+        "height": 140.0,
         "price": 0,
         "displayInches": "6.1"
     },
@@ -91,7 +91,7 @@
         "id": 1012,
         "name": "iPhone XS",
         "imageName": "https://swiftgitdeveloper.github.io/ImageAsset/iphoneXS.png",
-        "height": 130,
+        "height": 130.0,
         "price": 0,
         "displayInches": "5.8"
     },
@@ -99,7 +99,7 @@
         "id": 1013,
         "name": "iPhone XS Max",
         "imageName": "https://swiftgitdeveloper.github.io/ImageAsset/iphoneXSmax.png",
-        "height": 150,
+        "height": 150.0,
         "price": 0,
         "displayInches": "6.5"
     },
@@ -107,7 +107,7 @@
         "id": 1014,
         "name": "iPhone SE\n(2nd generation)",
         "imageName": "https://swiftgitdeveloper.github.io/ImageAsset/iphoneSE.png",
-        "height": 110,
+        "height": 110.0,
         "price": 0,
         "displayInches": "4.7"
     },
@@ -115,7 +115,7 @@
         "id": 1015,
         "name": "iPhone 11",
         "imageName": "https://swiftgitdeveloper.github.io/ImageAsset/iphone11.png",
-        "height": 140,
+        "height": 140.0,
         "price": 0,
         "displayInches": "6.1"
     },
@@ -123,7 +123,7 @@
         "id": 1016,
         "name": "iPhone 11 Pro",
         "imageName": "https://swiftgitdeveloper.github.io/ImageAsset/iphone11pro.png",
-        "height": 130,
+        "height": 130.0,
         "price": 0,
         "displayInches": "5.8"
     },
@@ -131,7 +131,7 @@
         "id": 1017,
         "name": "iPhone 11 Pro Max",
         "imageName": "https://swiftgitdeveloper.github.io/ImageAsset/iphone11promax.png",
-        "height": 150,
+        "height": 150.0,
         "price": 0,
         "displayInches": "6.5"
     },
@@ -139,7 +139,7 @@
         "id": 1018,
         "name": "iPhone 12 Mini",
         "imageName": "https://swiftgitdeveloper.github.io/ImageAsset/iphone12minipurple.png",
-        "height": 120,
+        "height": 120.0,
         "price": 0,
         "displayInches": "5.4"
     },
@@ -147,7 +147,7 @@
         "id": 1019,
         "name": "iPhone 12",
         "imageName": "https://swiftgitdeveloper.github.io/ImageAsset/iphone12purple.png",
-        "height": 140,
+        "height": 140.0,
         "price": 599,
         "displayInches": "6.1"
     },
@@ -155,7 +155,7 @@
         "id": 1020,
         "name": "iPhone 12 Pro",
         "imageName": "https://swiftgitdeveloper.github.io/ImageAsset/iphone12pro.png",
-        "height": 140,
+        "height": 140.0,
         "price": 0,
         "displayInches": "6.1"
     },
@@ -163,7 +163,7 @@
         "id": 1021,
         "name": "iPhone 12 Pro Max",
         "imageName": "https://swiftgitdeveloper.github.io/ImageAsset/iphone12promax.png",
-        "height": 160,
+        "height": 160.0,
         "price": 0,
         "displayInches": "6.7"
     },
@@ -171,7 +171,7 @@
         "id": 1022,
         "name": "iPhone 13 Mini",
         "imageName": "https://swiftgitdeveloper.github.io/ImageAsset/iphone13mini.png",
-        "height": 120,
+        "height": 120.0,
         "price": 599,
         "displayInches": "5.4"
     },
@@ -179,7 +179,7 @@
         "id": 1023,
         "name": "iPhone 13",
         "imageName": "https://swiftgitdeveloper.github.io/ImageAsset/iphone13.png",
-        "height": 140,
+        "height": 140.0,
         "price": 699,
         "displayInches": "6.1"
     },
@@ -187,7 +187,7 @@
         "id": 1024,
         "name": "iPhone 13 Pro",
         "imageName": "https://swiftgitdeveloper.github.io/ImageAsset/iphone13pro.png",
-        "height": 140,
+        "height": 140.0,
         "price": 0,
         "displayInches": "6.1"
     },
@@ -195,7 +195,7 @@
         "id": 1025,
         "name": "iPhone 13 Pro Max",
         "imageName": "https://swiftgitdeveloper.github.io/ImageAsset/iphone13promax.png",
-        "height": 160,
+        "height": 160.0,
         "price": 0,
         "displayInches": "6.7"
     },
@@ -203,7 +203,7 @@
         "id": 1026,
         "name": "iPhone SE\n(3rd generation)",
         "imageName": "https://swiftgitdeveloper.github.io/ImageAsset/iphoneSE3rdgen.png",
-        "height": 110,
+        "height": 110.0,
         "price": 429,
         "displayInches": "4.7"
     },
@@ -211,7 +211,7 @@
         "id": 1027,
         "name": "iPhone 14",
         "imageName": "https://swiftgitdeveloper.github.io/ImageAsset/iphone14.png",
-        "height": 140,
+        "height": 140.0,
         "price": 799,
         "displayInches": "6.1"
     },
@@ -219,7 +219,7 @@
         "id": 1028,
         "name": "iPhone 14 Plus",
         "imageName": "https://swiftgitdeveloper.github.io/ImageAsset/iphone14plus.png",
-        "height": 160,
+        "height": 160.0,
         "price": 899,
         "displayInches": "6.7"
     },
@@ -227,7 +227,7 @@
         "id": 1029,
         "name": "iPhone 14 Pro",
         "imageName": "https://swiftgitdeveloper.github.io/ImageAsset/iphone14pro.png",
-        "height": 140,
+        "height": 140.0,
         "price": 999,
         "displayInches": "6.1"
     },
@@ -235,7 +235,7 @@
         "id": 1030,
         "name": "iPhone 14 Pro Max",
         "imageName": "https://swiftgitdeveloper.github.io/ImageAsset/iphone14promax.png",
-        "height": 160,
+        "height": 160.0,
         "price": 1099,
         "displayInches": "6.7"
     }
