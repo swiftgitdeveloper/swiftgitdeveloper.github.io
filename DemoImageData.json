@@ -1,45 +1,5 @@
 [
     {
-        "id": 1001,
-        "imageName": "https://swiftgitdeveloper.github.io/DemoImages/DemoImages2/ImageDemo1.png"
-    },
-    {
-        "id": 1002,
-        "imageName": "https://swiftgitdeveloper.github.io/DemoImages/DemoImages2/ImageDemo2.png"
-    },
-    {
-        "id": 1003,
-        "imageName": "https://swiftgitdeveloper.github.io/DemoImages/DemoImages2/ImageDemo3.png"
-    },
-    {
-        "id": 1004,
-        "imageName": "https://swiftgitdeveloper.github.io/DemoImages/DemoImages2/ImageDemo4.png"
-    },
-    {
-        "id": 1005,
-        "imageName": "https://swiftgitdeveloper.github.io/DemoImages/DemoImages2/ImageDemo5.png"
-    },
-    {
-        "id": 1006,
-        "imageName": "https://swiftgitdeveloper.github.io/DemoImages/DemoImages2/ImageDemo6.png"
-    },
-    {
-        "id": 1007,
-        "imageName": "https://swiftgitdeveloper.github.io/DemoImages/DemoImages2/ImageDemo7.png"
-    },
-    {
-        "id": 1008,
-        "imageName": "https://swiftgitdeveloper.github.io/DemoImages/DemoImages2/ImageDemo8.png"
-    },
-    {
-        "id": 1009,
-        "imageName": "https://swiftgitdeveloper.github.io/DemoImages/DemoImages2/ImageDemo9.png"
-    },
-    {
-        "id": 1010,
-        "imageName": "https://swiftgitdeveloper.github.io/DemoImages/DemoImages2/ImageDemo10.png"
-    },
-    {
         "id": 1011,
         "imageName": "https://swiftgitdeveloper.github.io/DemoImages/DemoImages2/ImageDemo11.png"
     },
