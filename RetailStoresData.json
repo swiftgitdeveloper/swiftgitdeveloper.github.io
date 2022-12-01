@@ -142,11 +142,17 @@
         },
         "imageName": "https://swiftgitdeveloper.github.io/AppleStoreImage/appleparkvisitorcenter.png",
         "address": "10600 North Tantau Avenue\nCupertino, CA 95014\n(408) 961-1560"
+    },
+     {
+        "name": "Apple Third Street Promenade",
+        "city": "Santa Monica",
+        "state": "California",
+        "id": 1013,
+        "coordinates": {
+            "longitude": 118.49530,
+            "latitude": 34.01542
+        },
+        "imageName": "https://swiftgitdeveloper.github.io/AppleStoreImage/thirdstreetpromenade.png",
+        "address": "1415 Third Street Promenade\nSanta Monica, CA 90401\n(310) 633-2670"
     }
-    
-    
-    
-    
-    
-    
 ]
