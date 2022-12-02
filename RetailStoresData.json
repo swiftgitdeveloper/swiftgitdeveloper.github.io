@@ -9,7 +9,8 @@
             "latitude": 35.337895
         },
         "imageName": "https://swiftgitdeveloper.github.io/AppleStoreImage/applevalleyplaza.png",
-        "address": "2701 Ming Avenue\nBakersfield, CA 93304\n(661) 396-3480"
+        "address": "2701 Ming Avenue\nBakersfield, CA 93304",
+        "phoneNumber": "(661) 396-3480"
     },
     {
         "name": "4th Street",
@@ -21,7 +22,8 @@
             "latitude": 37.869310
         },
         "imageName": "https://swiftgitdeveloper.github.io/AppleStoreImage/apple4thstreet.png",
-        "address": "1823 4th Street\nBerkeley, CA 94710\n(510) 898-3341"
+        "address": "1823 4th Street\nBerkeley, CA 94710",
+        "phoneNumber": "(510) 898-3341"
     },
     {
         "name": "Brea Mall",
@@ -33,7 +35,8 @@
             "latitude": 33.915829
         },
         "imageName": "https://swiftgitdeveloper.github.io/AppleStoreImage/applebreamall.png",
-        "address": "1016C Brea Mall\nBrea, CA 92821\n(714) 989-5550"
+        "address": "1016C Brea Mall\nBrea, CA 92821",
+        "phoneNumber": "(714) 989-5550"
     },
     {
         "name": "Burlingame",
@@ -45,7 +48,8 @@
             "latitude": 37.578270
         },
         "imageName": "https://swiftgitdeveloper.github.io/AppleStoreImage/appleburlingame.png",
-        "address": "1301 Burlingame Avenue\nBurlingame, CA 94010\n(650) 645-8930"
+        "address": "1301 Burlingame Avenue\nBurlingame, CA 94010",
+        "phoneNumber": "(650) 645-8930"
     },
     {
         "name": "Topanga",
@@ -57,7 +61,8 @@
             "latitude": 34.190336
         },
         "imageName": "https://swiftgitdeveloper.github.io/AppleStoreImage/appletopanga.png",
-        "address": "6600 Topanga Canyon Boulevard\nCanoga Park, CA 91303\n(818) 577-1800"
+        "address": "6600 Topanga Canyon Boulevard\nCanoga Park, CA 91303",
+        "phoneNumber": "(818) 577-1800"
     },
     {
         "name": "Carlsbad",
@@ -69,7 +74,8 @@
             "latitude": 33.071305
         },
         "imageName": "https://swiftgitdeveloper.github.io/AppleStoreImage/applecarlsbad.png",
-        "address": "1923 Calle Barcelona\nCarlsbad, CA 92009\n(760) 697-9800"
+        "address": "1923 Calle Barcelona\nCarlsbad, CA 92009",
+        "phoneNumber": "(760) 697-9800"
     },
     {
         "name": "Los Cerritos",
@@ -81,7 +87,8 @@
             "latitude": 33.862468
         },
         "imageName": "https://swiftgitdeveloper.github.io/AppleStoreImage/appleloscerritos.png",
-        "address": "242 Los Cerritos Center\nCerritos, CA 90703\n(562) 356-1555"
+        "address": "242 Los Cerritos Center\nCerritos, CA 90703",
+        "phoneNumber": "(562) 356-1555"
     },
     {
         "name": "Otay Ranch",
@@ -93,7 +100,8 @@
             "latitude": 32.624043
         },
         "imageName": "https://swiftgitdeveloper.github.io/AppleStoreImage/appleotayranch.png",
-        "address": "2015 Birch Road\nChula Vista, CA 91915\n(619) 205-6400"
+        "address": "2015 Birch Road\nChula Vista, CA 91915",
+        "phoneNumber": "(619) 205-6400"
     },
     {
         "name": "Corte Madera",
@@ -105,7 +113,8 @@
             "latitude": 37.928635
         },
         "imageName": "https://swiftgitdeveloper.github.io/AppleStoreImage/applecortemadera.png",
-        "address": "1520 Redwood Highway\nCorte Madera, CA 94925\n(415) 413-9120"
+        "address": "1520 Redwood Highway\nCorte Madera, CA 94925",
+        "phoneNumber": "(415) 413-9120"
     },
     {
         "name": "South Coast Plaza",
@@ -117,7 +126,8 @@
             "latitude": 33.692076
         },
         "imageName": "https://swiftgitdeveloper.github.io/AppleStoreImage/applesouthcoastplaza.png",
-        "address": ""
+        "address": "3333 Bear Street\nCosta Mesa, CA 92626",
+        "phoneNumber": "(714) 424-6331"
     },
     {
         "name": "Infinite Loop",
@@ -129,7 +139,8 @@
             "latitude": 37.331423
         },
         "imageName": "https://swiftgitdeveloper.github.io/AppleStoreImage/infiniteloop.png",
-        "address": "One Infinite Loop\nCupertino, CA 95014\n(408) 606-5775"
+        "address": "One Infinite Loop\nCupertino, CA 95014",
+        "phoneNumber": "(408) 606-5775"
     },
     {
         "name": "Apple Park Visitor Center",
@@ -141,7 +152,8 @@
             "latitude": 37.332835
         },
         "imageName": "https://swiftgitdeveloper.github.io/AppleStoreImage/appleparkvisitorcenter.png",
-        "address": "10600 North Tantau Avenue\nCupertino, CA 95014\n(408) 961-1560"
+        "address": "10600 North Tantau Avenue\nCupertino, CA 95014",
+        "phoneNumber": "(408) 961-1560"
     },
      {
         "name": "Third Street Promenade",
@@ -153,7 +165,8 @@
             "latitude": 34.01542
         },
         "imageName": "https://swiftgitdeveloper.github.io/AppleStoreImage/thirdstreetpromenade.png",
-        "address": "1415 Third Street Promenade\nSanta Monica, CA 90401\n(310) 633-2670"
+        "address": "1415 Third Street Promenade\nSanta Monica, CA 90401",
+        "phoneNumber": "(310) 633-2670"
     },
      {
         "name": "The Grove",
@@ -165,7 +178,8 @@
             "latitude": 34.071690
         },
         "imageName": "https://swiftgitdeveloper.github.io/AppleStoreImage/thegrove.png",
-        "address": "189 The Grove Drive\nLos Angeles, CA 90036\n(323) 617-9800"
+        "address": "189 The Grove Drive\nLos Angeles, CA 90036",
+        "phoneNumber": "(323) 617-9800"
     },
      {
         "name": "Apple Beverly Center",
@@ -177,7 +191,8 @@
             "latitude": 34.074885
         },
         "imageName": "https://swiftgitdeveloper.github.io/AppleStoreImage/beverlycenter.png",
-        "address": "8500 Beverly Boulevard\nLos Angeles, CA 90048\n(424) 239-3880"
+        "address": "8500 Beverly Boulevard\nLos Angeles, CA 90048",
+        "phoneNumber": "(424) 239-3880"
     },
      {
         "name": "Apple Tower Theatre",
@@ -189,6 +204,7 @@
             "latitude": 34.043549
         },
         "imageName": "https://swiftgitdeveloper.github.io/AppleStoreImage/appletowertheatre.png",
-        "address": "802 S Broadway\nLos Angeles, CA 90014\n(213) 655-1200"
+        "address": "802 S Broadway\nLos Angeles, CA 90014",
+        "phoneNumber": "(213) 655-1200"
     }
 ]
