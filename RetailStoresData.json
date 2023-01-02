@@ -206,5 +206,18 @@
         "imageName": "https://swiftgitdeveloper.github.io/AppleStoreImage/appletowertheatre.png",
         "address": "802 S Broadway\nLos Angeles, CA 90014",
         "phoneNumber": "(213) 655-1200"
+    },
+     {
+        "name": "Apple Fifth Avenue",
+        "city": "New York City",
+        "state": "New York",
+        "id": 1017,
+        "coordinates": {
+            "longitude": -73.972988,
+            "latitude": 40.763842
+        },
+        "imageName": "https://swiftgitdeveloper.github.io/AppleStoreImage/applefifthavenue.png",
+        "address": "767 Fifth Avenue\nNew York, NY 10153",
+        "phoneNumber": "(212) 336-1440"
     }
 ]
