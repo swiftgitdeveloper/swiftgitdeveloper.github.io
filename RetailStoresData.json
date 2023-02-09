@@ -1,5 +1,6 @@
 [
     {
+        "storeID": "R550",
         "name": "Valley Plaza",
         "city": "Bakersfield",
         "state": "California",
@@ -13,6 +14,7 @@
         "phoneNumber": "(661) 396-3480"
     },
     {
+        "storeID": "R414",
         "name": "4th Street",
         "city": "Berkeley",
         "state": "California",
@@ -26,6 +28,7 @@
         "phoneNumber": "(510) 898-3341"
     },
     {
+        "storeID": "R156",
         "name": "Brea Mall",
         "city": "Brea",
         "state": "California",
@@ -39,6 +42,7 @@
         "phoneNumber": "(714) 989-5550"
     },
     {
+        "storeID": "R029",
         "name": "Burlingame",
         "city": "Burlingame",
         "state": "California",
@@ -52,6 +56,7 @@
         "phoneNumber": "(650) 645-8930"
     },
     {
+        "storeID": "R189",
         "name": "Topanga",
         "city": "Canoga Park",
         "state": "California",
@@ -65,6 +70,7 @@
         "phoneNumber": "(818) 577-1800"
     },
     {
+        "storeID": "R294",
         "name": "Carlsbad",
         "city": "Carlsbad",
         "state": "California",
@@ -78,6 +84,7 @@
         "phoneNumber": "(760) 697-9800"
     },
     {
+        "storeID": "R300",
         "name": "Los Cerritos",
         "city": "Cerritos",
         "state": "California",
@@ -91,6 +98,7 @@
         "phoneNumber": "(562) 356-1555"
     },
     {
+        "storeID": "R213",
         "name": "Otay Ranch",
         "city": "Chula Vista",
         "state": "California",
@@ -104,6 +112,7 @@
         "phoneNumber": "(619) 205-6400"
     },
     {
+        "storeID": "R071",
         "name": "Corte Madera",
         "city": "Corte Madera",
         "state": "California",
@@ -117,6 +126,7 @@
         "phoneNumber": "(415) 413-9120"
     },
     {
+        "storeID": "R004",
         "name": "South Coast Plaza",
         "city": "Costa Mesa",
         "state": "California",
@@ -130,6 +140,7 @@
         "phoneNumber": "(714) 424-6331"
     },
     {
+        "storeID": "R052",
         "name": "Infinite Loop",
         "city": "Cupertino",
         "state": "California",
@@ -143,6 +154,7 @@
         "phoneNumber": "(408) 606-5775"
     },
     {
+        "storeID": "R824",
         "name": "Apple Park Visitor Center",
         "city": "Cupertino",
         "state": "California",
@@ -156,68 +168,73 @@
         "phoneNumber": "(408) 961-1560"
     },
      {
-        "name": "Third Street Promenade",
-        "city": "Santa Monica",
-        "state": "California",
-        "id": 1013,
-        "coordinates": {
-            "longitude": 118.49530,
-            "latitude": 34.01542
-        },
-        "imageName": "https://swiftgitdeveloper.github.io/AppleStoreImage/thirdstreetpromenade.png",
-        "address": "1415 Third Street Promenade\nSanta Monica, CA 90401",
-        "phoneNumber": "(310) 633-2670"
+         "storeID": "R051",
+         "name": "Third Street Promenade",
+         "city": "Santa Monica",
+         "state": "California",
+         "id": 1013,
+         "coordinates": {
+             "longitude": 118.49530,
+             "latitude": 34.01542
+         },
+         "imageName": "https://swiftgitdeveloper.github.io/AppleStoreImage/thirdstreetpromenade.png",
+         "address": "1415 Third Street Promenade\nSanta Monica, CA 90401",
+         "phoneNumber": "(310) 633-2670"
     },
+    {
+         "storeID": "R050",
+         "name": "The Grove",
+         "city": "Los Angeles",
+         "state": "California",
+         "id": 1014,
+         "coordinates": {
+             "longitude": -118.357473,
+             "latitude": 34.071690
+         },
+         "imageName": "https://swiftgitdeveloper.github.io/AppleStoreImage/thegrove.png",
+         "address": "189 The Grove Drive\nLos Angeles, CA 90036",
+         "phoneNumber": "(323) 617-9800"
+     },
      {
-        "name": "The Grove",
-        "city": "Los Angeles",
-        "state": "California",
-        "id": 1014,
-        "coordinates": {
-            "longitude": -118.357473,
-            "latitude": 34.071690
-        },
-        "imageName": "https://swiftgitdeveloper.github.io/AppleStoreImage/thegrove.png",
-        "address": "189 The Grove Drive\nLos Angeles, CA 90036",
-        "phoneNumber": "(323) 617-9800"
-    },
+         "storeID": "R124",
+         "name": "Apple Beverly Center",
+         "city": "Los Angeles",
+         "state": "California",
+         "id": 1015,
+         "coordinates": {
+             "longitude": -118.377217,
+             "latitude": 34.074885
+         },
+         "imageName": "https://swiftgitdeveloper.github.io/AppleStoreImage/beverlycenter.png",
+         "address": "8500 Beverly Boulevard\nLos Angeles, CA 90048",
+         "phoneNumber": "(424) 239-3880"
+     },
      {
-        "name": "Apple Beverly Center",
-        "city": "Los Angeles",
-        "state": "California",
-        "id": 1015,
-        "coordinates": {
-            "longitude": -118.377217,
-            "latitude": 34.074885
-        },
-        "imageName": "https://swiftgitdeveloper.github.io/AppleStoreImage/beverlycenter.png",
-        "address": "8500 Beverly Boulevard\nLos Angeles, CA 90048",
-        "phoneNumber": "(424) 239-3880"
-    },
+         "storeID": "R720",
+         "name": "Apple Tower Theatre",
+         "city": "Los Angeles",
+         "state": "California",
+         "id": 1016,
+         "coordinates": {
+             "longitude": -118.254664,
+             "latitude": 34.043549
+         },
+         "imageName": "https://swiftgitdeveloper.github.io/AppleStoreImage/appletowertheatre.png",
+         "address": "802 S Broadway\nLos Angeles, CA 90014",
+         "phoneNumber": "(213) 655-1200"
+     },
      {
-        "name": "Apple Tower Theatre",
-        "city": "Los Angeles",
-        "state": "California",
-        "id": 1016,
-        "coordinates": {
-            "longitude": -118.254664,
-            "latitude": 34.043549
-        },
-        "imageName": "https://swiftgitdeveloper.github.io/AppleStoreImage/appletowertheatre.png",
-        "address": "802 S Broadway\nLos Angeles, CA 90014",
-        "phoneNumber": "(213) 655-1200"
-    },
-     {
-        "name": "Apple Fifth Avenue",
-        "city": "New York City",
-        "state": "New York",
-        "id": 1017,
-        "coordinates": {
-            "longitude": -73.972988,
-            "latitude": 40.763842
-        },
-        "imageName": "https://swiftgitdeveloper.github.io/AppleStoreImage/applefifthavenue.png",
-        "address": "767 Fifth Avenue\nNew York, NY 10153",
-        "phoneNumber": "(212) 336-1440"
+         "storeID": "R095",
+         "name": "Apple Fifth Avenue",
+         "city": "New York City",
+         "state": "New York",
+         "id": 1017,
+         "coordinates": {
+             "longitude": -73.972988,
+             "latitude": 40.763842
+         },
+         "imageName": "https://swiftgitdeveloper.github.io/AppleStoreImage/applefifthavenue.png",
+         "address": "767 Fifth Avenue\nNew York, NY 10153",
+         "phoneNumber": "(212) 336-1440"
     }
 ]
