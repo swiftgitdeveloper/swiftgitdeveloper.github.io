@@ -236,5 +236,19 @@
          "imageName": "https://swiftgitdeveloper.github.io/AppleStoreImage/applefifthavenue.png",
          "address": "767 Fifth Avenue\nNew York, NY 10153",
          "phoneNumber": "(212) 336-1440"
+    },
+     {
+         "storeID": "R075",
+         "name": "Apple Union Square",
+         "city": "San Francisco",
+         "state": "California",
+         "id": 1018,
+         "coordinates": {
+             "longitude": -122.407174,
+             "latitude": 37.788570
+         },
+         "imageName": "https://swiftgitdeveloper.github.io/AppleStoreImage/appleunionsquare.png",
+         "address": "300 Post Street\nSan Francisco, CA 94108",
+         "phoneNumber": "(415) 486-4800"
     }
 ]
