@@ -250,5 +250,47 @@
          "imageName": "https://swiftgitdeveloper.github.io/AppleStoreImage/appleunionsquare.png",
          "address": "300 Post Street\nSan Francisco, CA 94108",
          "phoneNumber": "(415) 486-4800"
+    },
+     {
+         "storeID": "R284",
+         "name": "Apple Lincoln Park",
+         "city": "Chicago",
+         "state": "Illinois",
+         "id": 1019,
+         "coordinates": {
+             "longitude": -87.648526,
+             "latitude": 41.910523,
+         },
+         "imageName": "https://swiftgitdeveloper.github.io/AppleStoreImage/applelincolnpark.png",
+         "address": "801 W. North Avenue\nChicago, IL 60642",
+         "phoneNumber": "(312) 777-4200"
+    },
+     {
+         "storeID": "R317",
+         "name": "Apple State Street",
+         "city": "Santa Barbara",
+         "state": "California",
+         "id": 1020,
+         "coordinates": {
+             "longitude": -119.701399,
+             "latitude": 34.421301
+         },
+         "imageName": "https://swiftgitdeveloper.github.io/AppleStoreImage/applestatestreet.png",
+         "address": "928 State Street\nSanta Barbara, CA 93101",
+         "phoneNumber": "(805) 560-1500"
+    },
+     {
+         "storeID": "R415",
+         "name": "Apple Grand Central",
+         "city": "New York City",
+         "state": "New York",
+         "id": 1021,
+         "coordinates": {
+             "longitude": -73.976907,
+             "latitude": 40.752733
+         },
+         "imageName": "https://swiftgitdeveloper.github.io/AppleStoreImage/applegrandcentral.png",
+         "address": "45 Grand Central Terminal\nNew York, NY 10017",
+         "phoneNumber": "(212) 284-1800"
     }
 ]
