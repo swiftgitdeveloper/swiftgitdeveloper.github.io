@@ -13,6 +13,7 @@
         "storage": ["64GB", "128GB", "256GB"],
         "featureTitle": ["String"],
         "featureContent": ["String"],
+        "featureDescription": [""],
         "featureImages": ["String"],
         "displayInches": "4.0"
     },
@@ -30,6 +31,7 @@
         "storage": ["64GB", "128GB", "256GB"],
         "featureTitle": ["String"],
         "featureContent": ["String"],
+        "featureDescription": [""],
         "featureImages": ["String"],
         "displayInches": "4.7"
     },
@@ -47,6 +49,7 @@
         "storage": ["64GB", "128GB", "256GB"],
         "featureTitle": ["String"],
         "featureContent": ["String"],
+        "featureDescription": [""],
         "featureImages": ["String"],
         "displayInches": "5.5"
     },
@@ -64,6 +67,7 @@
         "storage": ["64GB", "128GB", "256GB"],
         "featureTitle": ["String"],
         "featureContent": ["String"],
+        "featureDescription": [""],
         "featureImages": ["String"],
         "displayInches": "4.7"
     },
@@ -81,6 +85,7 @@
         "storage": ["64GB", "128GB", "256GB"],
         "featureTitle": ["String"],
         "featureContent": ["String"],
+        "featureDescription": [""],
         "featureImages": ["String"],
         "displayInches": "5.5"
     },
@@ -98,6 +103,7 @@
         "storage": ["64GB", "128GB", "256GB"],
         "featureTitle": ["String"],
         "featureContent": ["String"],
+        "featureDescription": [""],
         "featureImages": ["String"],
         "displayInches": "4.7"
     },
@@ -115,6 +121,7 @@
         "storage": ["64GB", "128GB", "256GB"],
         "featureTitle": ["String"],
         "featureContent": ["String"],
+        "featureDescription": [""],
         "featureImages": ["String"],
         "displayInches": "5.5"
     },
@@ -132,6 +139,7 @@
         "storage": ["64GB", "128GB", "256GB"],
         "featureTitle": ["String"],
         "featureContent": ["String"],
+        "featureDescription": [""],
         "featureImages": ["String"],
         "displayInches": "4.7"
     },
@@ -149,6 +157,7 @@
         "storage": ["64GB", "128GB", "256GB"],
         "featureTitle": ["String"],
         "featureContent": ["String"],
+        "featureDescription": [""],
         "featureImages": ["String"],
         "displayInches": "5.5"
     },
@@ -166,6 +175,7 @@
         "storage": ["64GB", "128GB", "256GB"],
         "featureTitle": ["String"],
         "featureContent": ["String"],
+        "featureDescription": [""],
         "featureImages": ["String"],
         "displayInches": "5.8"
     },
@@ -183,6 +193,7 @@
         "storage": ["64GB", "128GB", "256GB"],
         "featureTitle": ["String"],
         "featureContent": ["String"],
+        "featureDescription": [""],
         "featureImages": ["String"],
         "displayInches": "6.1"
     },
@@ -200,6 +211,7 @@
         "storage": ["64GB", "128GB", "256GB"],
         "featureTitle": ["String"],
         "featureContent": ["String"],
+        "featureDescription": [""],
         "featureImages": ["String"],
         "displayInches": "5.8"
     },
@@ -217,6 +229,7 @@
         "storage": ["64GB", "128GB", "256GB"],
         "featureTitle": ["String"],
         "featureContent": ["String"],
+        "featureDescription": [""],
         "featureImages": ["String"],
         "displayInches": "6.5"
     },
@@ -234,6 +247,7 @@
         "storage": ["64GB", "128GB", "256GB"],
         "featureTitle": ["String"],
         "featureContent": ["String"],
+        "featureDescription": [""],
         "featureImages": ["String"],
         "displayInches": "4.7"
     },
@@ -251,6 +265,7 @@
         "storage": ["64GB", "128GB", "256GB"],
         "featureTitle": ["String"],
         "featureContent": ["String"],
+        "featureDescription": [""],
         "featureImages": ["String"],
         "displayInches": "6.1"
     },
@@ -268,6 +283,7 @@
         "storage": ["128GB", "256GB", "512GB"],
         "featureTitle": ["String"],
         "featureContent": ["String"],
+        "featureDescription": [""],
         "featureImages": ["String"],
         "displayInches": "5.8"
     },
@@ -285,6 +301,7 @@
         "storage": ["128GB", "256GB", "512GB"],
         "featureTitle": ["String"],
         "featureContent": ["String"],
+        "featureDescription": [""],
         "featureImages": ["String"],
         "displayInches": "6.5"
     },
@@ -302,6 +319,7 @@
         "storage": ["64GB", "128GB", "256GB"],
         "featureTitle": ["String"],
         "featureContent": ["String"],
+        "featureDescription": [""],
         "featureImages": ["String"],
         "displayInches": "5.4"
     },
@@ -319,6 +337,7 @@
         "storage": ["64GB", "128GB", "256GB"],
         "featureTitle": ["String"],
         "featureContent": ["String"],
+        "featureDescription": [""],
         "featureImages": ["String"],
         "displayInches": "6.1"
     },
@@ -336,6 +355,7 @@
         "storage": ["128GB", "256GB", "512GB"],
         "featureTitle": ["String"],
         "featureContent": ["String"],
+        "featureDescription": [""],
         "featureImages": ["String"],
         "displayInches": "6.1"
     },
@@ -353,6 +373,7 @@
         "storage": ["128GB", "256GB", "512GB"],
         "featureTitle": ["String"],
         "featureContent": ["String"],
+        "featureDescription": [""],
         "featureImages": ["String"],
         "displayInches": "6.7"
     },
@@ -370,6 +391,7 @@
         "storage": ["128GB", "256GB", "512GB"],
         "featureTitle": ["String"],
         "featureContent": ["String"],
+        "featureDescription": [""],
         "featureImages": ["String"],
         "displayInches": "5.4"
     },
@@ -387,6 +409,7 @@
         "storage": ["128GB", "256GB", "512GB"],
         "featureTitle": ["String"],
         "featureContent": ["String"],
+        "featureDescription": [""],
         "featureImages": ["String"],
         "displayInches": "6.1"
     },
@@ -404,6 +427,7 @@
         "storage": ["128GB", "256GB", "512GB", "1TB"],
         "featureTitle": ["String"],
         "featureContent": ["String"],
+        "featureDescription": [""],
         "featureImages": ["String"],
         "displayInches": "6.1"
     },
@@ -421,6 +445,7 @@
         "storage": ["128GB", "256GB", "512GB", "1TB"],
         "featureTitle": ["String"],
         "featureContent": ["String"],
+        "featureDescription": [""],
         "featureImages": ["String"],
         "displayInches": "6.7"
     },
