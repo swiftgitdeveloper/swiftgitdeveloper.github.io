@@ -481,7 +481,7 @@
         "storage": ["128GB", "256GB", "512GB"],
         "featureTitle": ["Display", "Safety", "Camera", "Battery", "Performance"],
         "featureContent": ["6.1”", "", "", "20 hrs", "A15 Bionic chip"],
-        "featureDescription": ["Super Retina XDR\ndisplay", "Emergency SOS\nvia satellite\nCrash Detection", "Advanced dual-camera system\n12MP Main\nUltra Wide\nPhotonic Engine for incredible detail and color\nAutofocus on TrueDepth front camera", "of video playback", "6-core CPU\n5-core GPU\n16-core Neural Engine"],
+        "featureDescription": ["Super Retina\nXDR display", "Emergency SOS\nvia satellite\nCrash Detection", "Advanced dual-camera system\n12MP Main\nUltra Wide\nPhotonic Engine for incredible detail and color\nAutofocus on TrueDepth front camera", "of video playback", "6-core CPU\n5-core GPU\n16-core Neural Engine"],
         "featureImages": ["6.1InchWithoutDynamicIsland.png", "icon_sos.png", "icon_dualSlash2.png", "battery.png", "icon_A15.png"],
         "displayInches": "6.1"
     },
@@ -499,7 +499,7 @@
         "storage": ["128GB", "256GB", "512GB"],
         "featureTitle": ["Display", "Safety", "Camera", "Battery", "Performance"],
         "featureContent": ["6.7”", "", "", "26 hrs", "A15 Bionic chip"],
-        "featureDescription": ["Super Retina XDR\ndisplay\nProMotion technology\nAlways-On display", "Emergency SOS\nvia satellite\nCrash Detection", "Advanced dual-camera system\n12MP Main\nUltra Wide\nPhotonic Engine for incredible detail and color\nAutofocus on TrueDepth front camera", "of video playback", "6-core CPU\n5-core GPU\n16-core Neural Engine"],
+        "featureDescription": ["Super Retina\nXDR display\nProMotion technology\nAlways-On display", "Emergency SOS\nvia satellite\nCrash Detection", "Advanced dual-camera system\n12MP Main\nUltra Wide\nPhotonic Engine for incredible detail and color\nAutofocus on TrueDepth front camera", "of video playback", "6-core CPU\n5-core GPU\n16-core Neural Engine"],
         "featureImages": ["6.7InchWithoutDynamicIsland.png", "icon_sos.png", "icon_dualSlash2.png", "battery.png", "icon_A15.png"],
         "displayInches": "6.7"
     },
@@ -517,7 +517,7 @@
         "storage": ["128GB", "256GB", "512GB", "1TB"],
         "featureTitle": ["Display", "Safety", "Camera", "Battery", "Performance"],
         "featureContent": ["6.1”", "", "", "23 hrs", "A16 Bionic chip"],
-        "featureDescription": ["Super Retina XDR\ndisplay\nProMotion technology\nAlways-On display", "Emergency SOS\nvia satellite\nCrash Detection", "Pro camera system\n48MP Main\nUltra Wide\nTelephoto\nPhotonic Engine for incredible detail and color\nAutofocus on TrueDepth front camera", "of video playback", "6-core CPU\n5-core GPU\n16-core Neural Engine"],
+        "featureDescription": ["Super Retina\nXDR display\nProMotion technology\nAlways-On display", "Emergency SOS\nvia satellite\nCrash Detection", "Pro camera system\n48MP Main\nUltra Wide\nTelephoto\nPhotonic Engine for incredible detail and color\nAutofocus on TrueDepth front camera", "of video playback", "6-core CPU\n5-core GPU\n16-core Neural Engine"],
         "featureImages": ["6.1InchWithDynamicIsland.png", "icon_sos.png", "icon_tripleWithLidar.png", "battery.png", "icon_A16.png"],
         "displayInches": "6.1"
     },
@@ -535,7 +535,7 @@
         "storage": ["128GB", "256GB", "512GB", "1TB"],
         "featureTitle": ["Display", "Safety", "Camera", "Battery", "Performance"],
         "featureContent": ["6.7”", "", "", "29 hrs", "A16 Bionic chip"],
-        "featureDescription": ["Super Retina XDR\ndisplay\nProMotion technology\nAlways-On display", "Emergency SOS\nvia satellite\nCrash Detection", "Pro camera system\n48MP Main\nUltra Wide\nTelephoto\nPhotonic Engine for incredible detail and color\nAutofocus on TrueDepth front camera", "of video playback", "6-core CPU\n5-core GPU\n16-core Neural Engine"],
+        "featureDescription": ["Super Retina\nXDR display\nProMotion technology\nAlways-On display", "Emergency SOS\nvia satellite\nCrash Detection", "Pro camera system\n48MP Main\nUltra Wide\nTelephoto\nPhotonic Engine for incredible detail and color\nAutofocus on TrueDepth front camera", "of video playback", "6-core CPU\n5-core GPU\n16-core Neural Engine"],
         "featureImages": ["6.7InchWithDynamicIsland.png", "icon_sos.png", "icon_tripleWithLidar.png", "battery.png", "icon_A16.png"],
         "displayInches": "6.7"
     }
