@@ -15,6 +15,11 @@
         "featureContent": ["String"],
         "featureDescription": [""],
         "featureImages": ["String"],
+        "applePrice": [0],
+        "appleMonthlyPrice": [0.0],
+        "attMonthlyPrice": [0.0],
+        "tmobileMonthlyPrice": [0.0],
+        "verizonMonthlyPrice": [0.0],
         "displayInches": "4.0"
     },
     {
@@ -33,6 +38,11 @@
         "featureContent": ["String"],
         "featureDescription": [""],
         "featureImages": ["String"],
+        "applePrice": [0],
+        "appleMonthlyPrice": [0.0],
+        "attMonthlyPrice": [0.0],
+        "tmobileMonthlyPrice": [0.0],
+        "verizonMonthlyPrice": [0.0],
         "displayInches": "4.7"
     },
     {
@@ -51,6 +61,11 @@
         "featureContent": ["String"],
         "featureDescription": [""],
         "featureImages": ["String"],
+        "applePrice": [0],
+        "appleMonthlyPrice": [0.0],
+        "attMonthlyPrice": [0.0],
+        "tmobileMonthlyPrice": [0.0],
+        "verizonMonthlyPrice": [0.0],
         "displayInches": "5.5"
     },
     {
@@ -69,6 +84,11 @@
         "featureContent": ["String"],
         "featureDescription": [""],
         "featureImages": ["String"],
+        "applePrice": [0],
+        "appleMonthlyPrice": [0.0],
+        "attMonthlyPrice": [0.0],
+        "tmobileMonthlyPrice": [0.0],
+        "verizonMonthlyPrice": [0.0],
         "displayInches": "4.7"
     },
     {
@@ -87,6 +107,11 @@
         "featureContent": ["String"],
         "featureDescription": [""],
         "featureImages": ["String"],
+        "applePrice": [0],
+        "appleMonthlyPrice": [0.0],
+        "attMonthlyPrice": [0.0],
+        "tmobileMonthlyPrice": [0.0],
+        "verizonMonthlyPrice": [0.0],
         "displayInches": "5.5"
     },
     {
@@ -105,6 +130,11 @@
         "featureContent": ["String"],
         "featureDescription": [""],
         "featureImages": ["String"],
+        "applePrice": [0],
+        "appleMonthlyPrice": [0.0],
+        "attMonthlyPrice": [0.0],
+        "tmobileMonthlyPrice": [0.0],
+        "verizonMonthlyPrice": [0.0],
         "displayInches": "4.7"
     },
     {
@@ -123,6 +153,11 @@
         "featureContent": ["String"],
         "featureDescription": [""],
         "featureImages": ["String"],
+        "applePrice": [0],
+        "appleMonthlyPrice": [0.0],
+        "attMonthlyPrice": [0.0],
+        "tmobileMonthlyPrice": [0.0],
+        "verizonMonthlyPrice": [0.0],
         "displayInches": "5.5"
     },
     {
@@ -141,6 +176,11 @@
         "featureContent": ["String"],
         "featureDescription": [""],
         "featureImages": ["String"],
+        "applePrice": [0],
+        "appleMonthlyPrice": [0.0],
+        "attMonthlyPrice": [0.0],
+        "tmobileMonthlyPrice": [0.0],
+        "verizonMonthlyPrice": [0.0],
         "displayInches": "4.7"
     },
     {
@@ -159,6 +199,11 @@
         "featureContent": ["String"],
         "featureDescription": [""],
         "featureImages": ["String"],
+        "applePrice": [0],
+        "appleMonthlyPrice": [0.0],
+        "attMonthlyPrice": [0.0],
+        "tmobileMonthlyPrice": [0.0],
+        "verizonMonthlyPrice": [0.0],
         "displayInches": "5.5"
     },
     {
@@ -177,6 +222,11 @@
         "featureContent": ["String"],
         "featureDescription": [""],
         "featureImages": ["String"],
+        "applePrice": [0],
+        "appleMonthlyPrice": [0.0],
+        "attMonthlyPrice": [0.0],
+        "tmobileMonthlyPrice": [0.0],
+        "verizonMonthlyPrice": [0.0],
         "displayInches": "5.8"
     },
     {
@@ -195,6 +245,11 @@
         "featureContent": ["String"],
         "featureDescription": [""],
         "featureImages": ["String"],
+        "applePrice": [0],
+        "appleMonthlyPrice": [0.0],
+        "attMonthlyPrice": [0.0],
+        "tmobileMonthlyPrice": [0.0],
+        "verizonMonthlyPrice": [0.0],
         "displayInches": "6.1"
     },
     {
@@ -213,6 +268,11 @@
         "featureContent": ["String"],
         "featureDescription": [""],
         "featureImages": ["String"],
+        "applePrice": [0],
+        "appleMonthlyPrice": [0.0],
+        "attMonthlyPrice": [0.0],
+        "tmobileMonthlyPrice": [0.0],
+        "verizonMonthlyPrice": [0.0],
         "displayInches": "5.8"
     },
     {
@@ -231,6 +291,11 @@
         "featureContent": ["String"],
         "featureDescription": [""],
         "featureImages": ["String"],
+        "applePrice": [0],
+        "appleMonthlyPrice": [0.0],
+        "attMonthlyPrice": [0.0],
+        "tmobileMonthlyPrice": [0.0],
+        "verizonMonthlyPrice": [0.0],
         "displayInches": "6.5"
     },
     {
@@ -249,6 +314,11 @@
         "featureContent": ["String"],
         "featureDescription": [""],
         "featureImages": ["String"],
+        "applePrice": [0],
+        "appleMonthlyPrice": [0.0],
+        "attMonthlyPrice": [0.0],
+        "tmobileMonthlyPrice": [0.0],
+        "verizonMonthlyPrice": [0.0],
         "displayInches": "4.7"
     },
     {
@@ -267,6 +337,11 @@
         "featureContent": ["String"],
         "featureDescription": [""],
         "featureImages": ["String"],
+        "applePrice": [0],
+        "appleMonthlyPrice": [0.0],
+        "attMonthlyPrice": [0.0],
+        "tmobileMonthlyPrice": [0.0],
+        "verizonMonthlyPrice": [0.0],
         "displayInches": "6.1"
     },
     {
@@ -285,6 +360,11 @@
         "featureContent": ["String"],
         "featureDescription": [""],
         "featureImages": ["String"],
+        "applePrice": [0],
+        "appleMonthlyPrice": [0.0],
+        "attMonthlyPrice": [0.0],
+        "tmobileMonthlyPrice": [0.0],
+        "verizonMonthlyPrice": [0.0],
         "displayInches": "5.8"
     },
     {
@@ -303,6 +383,11 @@
         "featureContent": ["String"],
         "featureDescription": [""],
         "featureImages": ["String"],
+        "applePrice": [0],
+        "appleMonthlyPrice": [0.0],
+        "attMonthlyPrice": [0.0],
+        "tmobileMonthlyPrice": [0.0],
+        "verizonMonthlyPrice": [0.0],
         "displayInches": "6.5"
     },
     {
@@ -321,6 +406,11 @@
         "featureContent": ["String"],
         "featureDescription": [""],
         "featureImages": ["String"],
+        "applePrice": [0],
+        "appleMonthlyPrice": [0.0],
+        "attMonthlyPrice": [0.0],
+        "tmobileMonthlyPrice": [0.0],
+        "verizonMonthlyPrice": [0.0],
         "displayInches": "5.4"
     },
     {
@@ -339,6 +429,11 @@
         "featureContent": ["String"],
         "featureDescription": [""],
         "featureImages": ["String"],
+        "applePrice": [0],
+        "appleMonthlyPrice": [0.0],
+        "attMonthlyPrice": [0.0],
+        "tmobileMonthlyPrice": [0.0],
+        "verizonMonthlyPrice": [0.0],
         "displayInches": "6.1"
     },
     {
@@ -357,6 +452,11 @@
         "featureContent": ["String"],
         "featureDescription": [""],
         "featureImages": ["String"],
+        "applePrice": [0],
+        "appleMonthlyPrice": [0.0],
+        "attMonthlyPrice": [0.0],
+        "tmobileMonthlyPrice": [0.0],
+        "verizonMonthlyPrice": [0.0],
         "displayInches": "6.1"
     },
     {
@@ -375,6 +475,11 @@
         "featureContent": ["String"],
         "featureDescription": [""],
         "featureImages": ["String"],
+        "applePrice": [0],
+        "appleMonthlyPrice": [0.0],
+        "attMonthlyPrice": [0.0],
+        "tmobileMonthlyPrice": [0.0],
+        "verizonMonthlyPrice": [0.0],
         "displayInches": "6.7"
     },
     {
@@ -393,6 +498,11 @@
         "featureContent": ["String"],
         "featureDescription": [""],
         "featureImages": ["String"],
+        "applePrice": [0],
+        "appleMonthlyPrice": [0.0],
+        "attMonthlyPrice": [0.0],
+        "tmobileMonthlyPrice": [0.0],
+        "verizonMonthlyPrice": [0.0],
         "displayInches": "5.4"
     },
     {
@@ -411,6 +521,11 @@
         "featureContent": ["String"],
         "featureDescription": [""],
         "featureImages": ["String"],
+        "applePrice": [0],
+        "appleMonthlyPrice": [0.0],
+        "attMonthlyPrice": [0.0],
+        "tmobileMonthlyPrice": [0.0],
+        "verizonMonthlyPrice": [0.0],
         "displayInches": "6.1"
     },
     {
@@ -429,6 +544,11 @@
         "featureContent": ["String"],
         "featureDescription": [""],
         "featureImages": ["String"],
+        "applePrice": [0],
+        "appleMonthlyPrice": [0.0],
+        "attMonthlyPrice": [0.0],
+        "tmobileMonthlyPrice": [0.0],
+        "verizonMonthlyPrice": [0.0],
         "displayInches": "6.1"
     },
     {
@@ -447,6 +567,11 @@
         "featureContent": ["String"],
         "featureDescription": [""],
         "featureImages": ["String"],
+        "applePrice": [0],
+        "appleMonthlyPrice": [0.0],
+        "attMonthlyPrice": [0.0],
+        "tmobileMonthlyPrice": [0.0],
+        "verizonMonthlyPrice": [0.0],
         "displayInches": "6.7"
     },
     {
@@ -465,6 +590,11 @@
         "featureContent": ["4.7”", "", "", "15 hrs", "A15 Bionic chip"],
         "featureDescription": ["Retina HD display", "Emergency SOS", "Advanced camera system\n12MP Main\nFront camera", "of video playback", "6-core CPU\n4-core GPU\n16-core Neural Engine"],
         "featureImages": ["4.7Inch.png", "icon_sos.png", "icon_4.7Camera.png", "battery.png", "icon_A15.png"],
+        "applePrice": [0],
+        "appleMonthlyPrice": [0.0],
+        "attMonthlyPrice": [0.0],
+        "tmobileMonthlyPrice": [0.0],
+        "verizonMonthlyPrice": [0.0],
         "displayInches": "4.7"
     },
     {
@@ -483,6 +613,11 @@
         "featureContent": ["6.1”", "", "", "20 hrs", "A15 Bionic chip"],
         "featureDescription": ["Super Retina\nXDR display", "Emergency SOS\nvia satellite\nCrash Detection", "Advanced dual-camera system\n12MP Main\nUltra Wide\nPhotonic Engine for incredible detail and color\nAutofocus on TrueDepth front camera", "of video playback", "6-core CPU\n5-core GPU\n16-core Neural Engine"],
         "featureImages": ["6.1InchWithoutDynamicIsland.png", "icon_sos.png", "icon_dualSlash2.png", "battery.png", "icon_A15.png"],
+        "applePrice": [0],
+        "appleMonthlyPrice": [0.0],
+        "attMonthlyPrice": [0.0],
+        "tmobileMonthlyPrice": [0.0],
+        "verizonMonthlyPrice": [0.0],
         "displayInches": "6.1"
     },
     {
@@ -501,6 +636,11 @@
         "featureContent": ["6.7”", "", "", "26 hrs", "A15 Bionic chip"],
         "featureDescription": ["Super Retina\nXDR display\nProMotion technology\nAlways-On display", "Emergency SOS\nvia satellite\nCrash Detection", "Advanced dual-camera system\n12MP Main\nUltra Wide\nPhotonic Engine for incredible detail and color\nAutofocus on TrueDepth front camera", "of video playback", "6-core CPU\n5-core GPU\n16-core Neural Engine"],
         "featureImages": ["6.7InchWithoutDynamicIsland.png", "icon_sos.png", "icon_dualSlash2.png", "battery.png", "icon_A15.png"],
+        "applePrice": [0],
+        "appleMonthlyPrice": [0.0],
+        "attMonthlyPrice": [0.0],
+        "tmobileMonthlyPrice": [0.0],
+        "verizonMonthlyPrice": [0.0],
         "displayInches": "6.7"
     },
     {
@@ -519,6 +659,11 @@
         "featureContent": ["6.1”", "", "", "23 hrs", "A16 Bionic chip"],
         "featureDescription": ["Super Retina\nXDR display\nProMotion technology\nAlways-On display", "Emergency SOS\nvia satellite\nCrash Detection", "Pro camera system\n48MP Main\nUltra Wide\nTelephoto\nPhotonic Engine for incredible detail and color\nAutofocus on TrueDepth front camera", "of video playback", "6-core CPU\n5-core GPU\n16-core Neural Engine"],
         "featureImages": ["6.1InchWithDynamicIsland.png", "icon_sos.png", "icon_tripleWithLidar.png", "battery.png", "icon_A16.png"],
+        "applePrice": [999, 1099, 1299, 1499],
+        "appleMonthlyPrice": [41.62, 45.79, 54.12, 62.45],
+        "attMonthlyPrice": [27.75, 30.53, 36.09, 41.64],
+        "tmobileMonthlyPrice": [41.63, 45.80, 54.13, 62.46],
+        "verizonMonthlyPrice": [27.75, 30.52, 36.08, 41.63],
         "displayInches": "6.1"
     },
     {
@@ -537,6 +682,11 @@
         "featureContent": ["6.7”", "", "", "29 hrs", "A16 Bionic chip"],
         "featureDescription": ["Super Retina\nXDR display\nProMotion technology\nAlways-On display", "Emergency SOS\nvia satellite\nCrash Detection", "Pro camera system\n48MP Main\nUltra Wide\nTelephoto\nPhotonic Engine for incredible detail and color\nAutofocus on TrueDepth front camera", "of video playback", "6-core CPU\n5-core GPU\n16-core Neural Engine"],
         "featureImages": ["6.7InchWithDynamicIsland.png", "icon_sos.png", "icon_tripleWithLidar.png", "battery.png", "icon_A16.png"],
+        "applePrice": [1099, 1199, 1399, 1599],
+        "appleMonthlyPrice": [45.79, 49.95, 58.29, 66.62],
+        "attMonthlyPrice": [30.53, 33.51, 38.87, 44.42],
+        "tmobileMonthlyPrice": [45.80, 49.96, 58.30, 66.63],
+        "verizonMonthlyPrice": [30.52, 33.30, 38.86, 44.41],
         "displayInches": "6.7"
     }
 ]
