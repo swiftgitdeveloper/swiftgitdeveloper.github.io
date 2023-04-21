@@ -484,6 +484,29 @@
     },
     {
         "id": 1022,
+        "name": "iPhone SE\n(3rd generation)",
+        "imageName": "https://swiftgitdeveloper.github.io/ImageAsset/iphoneSE3rdgen.png",
+        "isNewModel": true,
+        "canTradeIn": true,
+        "height": 110,
+        "finish": ["Midnight", "Starlight", "(PRODUCT)RED"],
+        "price": 429,
+        "tradeInPrice": 160,
+        "monthlyPrice": 17.87,
+        "storage": ["64GB", "128GB", "256GB"],
+        "featureTitle": ["Display", "Safety", "Camera", "Battery", "Performance"],
+        "featureContent": ["4.7”", "", "", "15 hrs", "A15 Bionic chip"],
+        "featureDescription": ["Retina HD display", "Emergency SOS", "Advanced camera system\n12MP Main\nFront camera", "of video playback", "6-core CPU\n4-core GPU\n16-core Neural Engine"],
+        "featureImages": ["4.7Inch.png", "icon_sos.png", "icon_4.7Camera.png", "battery.png", "icon_A15.png"],
+        "applePrice": [0],
+        "appleMonthlyPrice": [0.0],
+        "attMonthlyPrice": [0.0],
+        "tmobileMonthlyPrice": [0.0],
+        "verizonMonthlyPrice": [0.0],
+        "displayInches": "4.7"
+    },
+    {
+        "id": 1023,
         "name": "iPhone 13 Mini",
         "imageName": "https://swiftgitdeveloper.github.io/ImageAsset/iphone13mini.png",
         "isNewModel": false,
@@ -506,7 +529,7 @@
         "displayInches": "5.4"
     },
     {
-        "id": 1023,
+        "id": 1024,
         "name": "iPhone 13",
         "imageName": "https://swiftgitdeveloper.github.io/ImageAsset/iphone13.png",
         "isNewModel": false,
@@ -529,7 +552,7 @@
         "displayInches": "6.1"
     },
     {
-        "id": 1024,
+        "id": 1025,
         "name": "iPhone 13 Pro",
         "imageName": "https://swiftgitdeveloper.github.io/ImageAsset/iphone13pro.png",
         "isNewModel": false,
@@ -552,7 +575,7 @@
         "displayInches": "6.1"
     },
     {
-        "id": 1025,
+        "id": 1026,
         "name": "iPhone 13 Pro Max",
         "imageName": "https://swiftgitdeveloper.github.io/ImageAsset/iphone13promax.png",
         "isNewModel": false,
@@ -573,29 +596,6 @@
         "tmobileMonthlyPrice": [0.0],
         "verizonMonthlyPrice": [0.0],
         "displayInches": "6.7"
-    },
-    {
-        "id": 1027,
-        "name": "iPhone SE\n(3rd generation)",
-        "imageName": "https://swiftgitdeveloper.github.io/ImageAsset/iphoneSE3rdgen.png",
-        "isNewModel": true,
-        "canTradeIn": true,
-        "height": 110,
-        "finish": ["Midnight", "Starlight", "(PRODUCT)RED"],
-        "price": 429,
-        "tradeInPrice": 160,
-        "monthlyPrice": 17.87,
-        "storage": ["64GB", "128GB", "256GB"],
-        "featureTitle": ["Display", "Safety", "Camera", "Battery", "Performance"],
-        "featureContent": ["4.7”", "", "", "15 hrs", "A15 Bionic chip"],
-        "featureDescription": ["Retina HD display", "Emergency SOS", "Advanced camera system\n12MP Main\nFront camera", "of video playback", "6-core CPU\n4-core GPU\n16-core Neural Engine"],
-        "featureImages": ["4.7Inch.png", "icon_sos.png", "icon_4.7Camera.png", "battery.png", "icon_A15.png"],
-        "applePrice": [0],
-        "appleMonthlyPrice": [0.0],
-        "attMonthlyPrice": [0.0],
-        "tmobileMonthlyPrice": [0.0],
-        "verizonMonthlyPrice": [0.0],
-        "displayInches": "4.7"
     },
     {
         "id": 1028,
