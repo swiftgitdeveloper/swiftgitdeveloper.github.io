@@ -312,7 +312,7 @@
         "storage": ["64GB", "128GB", "256GB"],
         "featureTitle": ["Display", "Safety", "Camera", "Battery", "Performance"],
         "featureContent": ["4.7”", "", "", "13 hrs", "A13 Bionic chip"],
-        "featureDescription": ["Retina\nHD display", "Emergency SOS", "Single camera\n12MP Main\nFront camera", "of video playback", "6-core CPU\n4-core GPU\n8-core Neural Engine"],
+        "featureDescription": ["Retina HD display", "Emergency SOS", "Single camera\n12MP Main\nFront camera", "of video playback", "6-core CPU\n4-core GPU\n8-core Neural Engine"],
         "featureImages": ["4.7Inch.png", "icon_sos.png", "icon_4.7Camera.png", "battery.png", "icon_A13.png"],
         "applePrice": [0],
         "appleMonthlyPrice": [0.0],
