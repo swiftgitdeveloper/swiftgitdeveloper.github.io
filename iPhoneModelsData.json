@@ -493,7 +493,7 @@
         "price": 429,
         "tradeInPrice": 160,
         "monthlyPrice": 17.87,
-        "storage": ["64GB", "128GB", "256GB"],
+        "storage": ["256GB"],
         "featureTitle": ["Display", "Safety", "Camera", "Battery", "Performance"],
         "featureContent": ["4.7”", "", "", "15 hrs", "A15 Bionic chip"],
         "featureDescription": ["Retina HD display", "Emergency SOS", "Advanced camera system\n12MP Main\nFront camera", "of video playback", "6-core CPU\n4-core GPU\n16-core Neural Engine"],
