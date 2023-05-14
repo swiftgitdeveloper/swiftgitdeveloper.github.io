@@ -2,7 +2,7 @@
     {
         "id": 1001,
         "name": "iPhone SE",
-        "subName": " (1st generation)",
+        "subName": "(1st generation)",
         "imageName": "https://swiftgitdeveloper.github.io/ImageAsset/iphoneSE1st.png",
         "isNewModel": false,
         "canTradeIn": false,
@@ -327,7 +327,7 @@
     {
         "id": 1014,
         "name": "iPhone SE",
-        "subName": " (2nd generation)",
+        "subName": "(2nd generation)",
         "imageName": "https://swiftgitdeveloper.github.io/ImageAsset/iphoneSE.png",
         "isNewModel": false,
         "canTradeIn": true,
@@ -527,7 +527,7 @@
     {
         "id": 1022,
         "name": "iPhone SE",
-        "subName": " (3rd generation)",
+        "subName": "(3rd generation)",
         "imageName": "https://swiftgitdeveloper.github.io/ImageAsset/iphoneSE3rdgen.png",
         "isNewModel": true,
         "canTradeIn": true,
