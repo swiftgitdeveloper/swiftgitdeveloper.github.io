@@ -292,5 +292,19 @@
          "imageName": "https://swiftgitdeveloper.github.io/AppleStoreImage/applegrandcentral.png",
          "address": "45 Grand Central Terminal\nNew York, NY 10017",
          "phoneNumber": "(212) 284-1800"
+    },
+     {
+         "storeID": "R654",
+         "name": "Apple World Trade Center",
+         "city": "New York City",
+         "state": "New York",
+         "id": 1022,
+         "coordinates": {
+             "longitude": -74.011450,
+             "latitude": 40.711822
+         },
+         "imageName": "https://swiftgitdeveloper.github.io/AppleStoreImage/appleworldtradecenter.png",
+         "address": "185 Greenwich Street\nNew York, NY 10007",
+         "phoneNumber": "(646) 802-3800"
     }
 ]
