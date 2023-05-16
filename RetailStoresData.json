@@ -1,7 +1,7 @@
 [
     {
         "storeID": "R550",
-        "name": "Valley Plaza",
+        "name": "Apple Valley Plaza",
         "city": "Bakersfield",
         "state": "California",
         "id": 1001,
@@ -15,7 +15,7 @@
     },
     {
         "storeID": "R414",
-        "name": "4th Street",
+        "name": "Apple 4th Street",
         "city": "Berkeley",
         "state": "California",
         "id": 1002,
@@ -29,7 +29,7 @@
     },
     {
         "storeID": "R156",
-        "name": "Brea Mall",
+        "name": "Apple Brea Mall",
         "city": "Brea",
         "state": "California",
         "id": 1003,
@@ -43,7 +43,7 @@
     },
     {
         "storeID": "R029",
-        "name": "Burlingame",
+        "name": "Apple Burlingame",
         "city": "Burlingame",
         "state": "California",
         "id": 1004,
@@ -57,7 +57,7 @@
     },
     {
         "storeID": "R189",
-        "name": "Topanga",
+        "name": "Apple Topanga",
         "city": "Canoga Park",
         "state": "California",
         "id": 1005,
@@ -71,7 +71,7 @@
     },
     {
         "storeID": "R294",
-        "name": "Carlsbad",
+        "name": "Apple Carlsbad",
         "city": "Carlsbad",
         "state": "California",
         "id": 1006,
@@ -85,7 +85,7 @@
     },
     {
         "storeID": "R300",
-        "name": "Los Cerritos",
+        "name": "Apple Los Cerritos",
         "city": "Cerritos",
         "state": "California",
         "id": 1007,
@@ -99,7 +99,7 @@
     },
     {
         "storeID": "R213",
-        "name": "Otay Ranch",
+        "name": "Apple Otay Ranch",
         "city": "Chula Vista",
         "state": "California",
         "id": 1008,
@@ -113,7 +113,7 @@
     },
     {
         "storeID": "R071",
-        "name": "Corte Madera",
+        "name": "Apple Corte Madera",
         "city": "Corte Madera",
         "state": "California",
         "id": 1009,
@@ -141,7 +141,7 @@
     },
     {
         "storeID": "R052",
-        "name": "Infinite Loop",
+        "name": "Apple Infinite Loop",
         "city": "Cupertino",
         "state": "California",
         "id": 1011,
@@ -183,7 +183,7 @@
     },
     {
          "storeID": "R050",
-         "name": "The Grove",
+         "name": "Apple The Grove",
          "city": "Los Angeles",
          "state": "California",
          "id": 1014,
