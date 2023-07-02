@@ -650,7 +650,7 @@
         "displayInches": "6.7"
     },
     {
-        "id": 1028,
+        "id": 1027,
         "name": "iPhone 14",
         "subName": "",
         "imageName": "https://swiftgitdeveloper.github.io/ImageAsset/iphone14.png",
@@ -675,7 +675,7 @@
         "displayInches": "6.1"
     },
     {
-        "id": 1029,
+        "id": 1028,
         "name": "iPhone 14 Plus",
         "subName": "",
         "imageName": "https://swiftgitdeveloper.github.io/ImageAsset/iphone14plus.png",
@@ -700,7 +700,7 @@
         "displayInches": "6.7"
     },
     {
-        "id": 1030,
+        "id": 1029,
         "name": "iPhone 14 Pro",
         "subName": "",
         "imageName": "https://swiftgitdeveloper.github.io/ImageAsset/iphone14pro.png",
@@ -725,7 +725,7 @@
         "displayInches": "6.1"
     },
     {
-        "id": 1031,
+        "id": 1030,
         "name": "iPhone 14 Pro Max",
         "subName": "",
         "imageName": "https://swiftgitdeveloper.github.io/ImageAsset/iphone14promax.png",
