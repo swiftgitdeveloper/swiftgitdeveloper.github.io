@@ -5,6 +5,7 @@
         "versionNumber": "2.0",
         "buildNumber": "500",
         "contentVersion": "V18.1.1F",
-        "dataSource": "production_iphonedata.json"
+        "productiondataSource": "production_iphonedata.json",
+        "prereleasedataSource": "pre_release_iphonedata.json"
     }
 ]
