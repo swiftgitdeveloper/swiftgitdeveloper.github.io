@@ -2,6 +2,7 @@
     {
         "id": 1001,
         "appName": "Explore",
+        "buildNumber": "500",
         "contentVersion": "V18.1.1F",
         "productiondataSource": "production_iphonedata.json",
         "prereleasedataSource": "pre_release_iphonedata.json",
