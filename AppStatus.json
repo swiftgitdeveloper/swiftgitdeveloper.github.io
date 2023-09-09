@@ -6,6 +6,7 @@
         "buildNumber": "500",
         "contentVersion": "V18.1.1F",
         "productiondataSource": "production_iphonedata.json",
-        "prereleasedataSource": "pre_release_iphonedata.json"
+        "prereleasedataSource": "pre_release_iphonedata.json",
+        "englishNotificationTitle": "Open this app to learn about products on display and see pricing."
     }
 ]
