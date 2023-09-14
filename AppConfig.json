@@ -8,7 +8,6 @@
         "prereleasedataSource": "pre_release_iphonedata.json",
         "englishNotificationTitle": "Open this app to learn about products on display and see pricing.",
         "chineseNotificationTitle": "開啟app了解所展示的產品，並查看價格。",
-        "enableNotification": true,
-        "InAppRebootTimeInterval": 60
+        "enableNotification": true
     }
 ]
