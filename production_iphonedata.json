@@ -484,7 +484,7 @@
         "height": 140,
         "finish": ["Pacific Blue", "Gold", "Silver", "Graphite"],
         "price": 0,
-        "tradeInPrice": 350,
+        "tradeInPrice": 360,
         "monthlyPrice": 0.0,
         "storage": ["128GB", "256GB", "512GB"],
         "storageTradeInPrice": [290, 320, 350],
