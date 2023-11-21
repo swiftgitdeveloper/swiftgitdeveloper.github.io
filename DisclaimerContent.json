@@ -4,195 +4,195 @@
         "contentTitle": "Battery Life",
         "contentBody1": "All battery claims depend on network\nconfiguration and many other factors; actual\nresults will vary. Battery has limited recharge\ncycles and may eventually need to be replaced\nby Apple service provider. Battery life and\ncharge cycles vary by use and settings. See\napple.com/hk/en/batteries and apple.com/hk/\nen/iphone/battery.html for more information.",
         "contentBody2": "",
-        "contentBody3": "",
+        "contentBody3": ""
     },
     {
         "id": 1002,
         "contentTitle": "Cellular and Wireless",
         "contentBody1": "Data plan required. 5G, Gigabit LTE, LTE,\nVoLTE, and Wi-Fi calling are available in select\nmarkets and through select carriers. Speeds\nare based on theoretical throughput and vary\nbased on site conditions and carrier. For details\non 5G and LTE support, contact your carrier\nand see apple.com/hk/en/iphone/cellular.",
         "contentBody2": "",
-        "contentBody3": "",
+        "contentBody3": ""
     },
     {
         "id": 1003,
         "contentTitle": "Crash Detection",
         "contentBody1": "iPhone 14 and iPhone 15 models can detect a\nsevere car crash and call for help. Requires a\ncellular connection or Wi-Fi calling.",
         "contentBody2": "",
-        "contentBody3": "",
+        "contentBody3": ""
     },
     {
         "id": 1004,
         "contentTitle": "Display Size",
         "contentBody1": "The display has rounded corners that follow a\nbeautiful curved design, and these corners are\nwithin a standard rectangle. When measured\nas a standard rectangular shape, the screen is\n5.42 inches (iPhone 13 mini, iPhone 12 mini),\n6.06 inches (iPhone 14, iPhone 13, iPhone 12,\niPhone 11), 6.12 inches (iPhone 15 Pro, iPhone\n15, iPhone 14 Pro), 6.68 inches (iPhone 14\nPlus), or 6.69 inches (iPhone 15 Pro Max,\niPhone 15 Plus, iPhone 14 Pro Max) diagonally.\nActual viewable area is less.",
         "contentBody2": "",
-        "contentBody3": "",
+        "contentBody3": ""
     },
     {
         "id": 1005,
         "contentTitle": "Drop Performance",
         "contentBody1": "iPhone SE (3rd generation) has a better drop\nperformance compared to iPhone SE\n(2nd generation).",
         "contentBody2": "",
-        "contentBody3": "",
+        "contentBody3": ""
     },
     {
         "id": 1006,
         "contentTitle": "Dual SIM (nano-SIM)",
         "contentBody1": "Dual SIM, dual standby. Data and voice SIM\nselectable in settings. Use of Dual SIM requires\ntwo wireless service plans (which may include\nrestrictions on roaming). Does not support\nsimultaneous use of two CDMA wireless\nservice plans. Not all carriers support Dual\nVoLTE. Certain restrictions apply. To learn\nmore, visit support.apple.com/en-hk/\nHT209086.",
         "contentBody2": "",
-        "contentBody3": "",
+        "contentBody3": ""
     },
     {
         "id": 1007,
         "contentTitle": "eSIM",
         "contentBody1": "Use of eSIM requires a wireless service plan\n(which may include restrictions on switching\nservice providers and roaming, even after\ncontract expiration). Not all carriers support\neSIM. Use of eSIM in iPhone may be disabled\nwhen purchased from some carriers. See your\ncarrier for details. iPhone 13 mini supports Dual\nSIM (nano-SIM and eSIM). To learn more, visit\napple.com/hk/en/esim.",
         "contentBody2": "",
-        "contentBody3": "",
+        "contentBody3": ""
     },
     {
         "id": 1008,
         "contentTitle": "Express Transit",
         "contentBody1": "Available only in select cities and transit\nsystems. Requires eligible device and OS\nversion. See support.apple.com/en-hk/\nHT209495 for details.",
         "contentBody2": "",
-        "contentBody3": "",
+        "contentBody3": ""
     },
     {
         "id": 1009,
         "contentTitle": "FaceTime",
         "contentBody1": "FaceTime calling requires a FaceTime-enabled\ndevice for the caller and recipient and a Wi-Fi\nconnection. Availability over a cellular network\ndepends on carrier policies; data charges may\napply.",
         "contentBody2": "",
-        "contentBody3": "",
+        "contentBody3": ""
     },
     {
         "id": 1010,
         "contentTitle": "Fast-Charge Capable",
         "contentBody1": "Testing conducted by Apple in August 2019\nusing preproduction iPhone 11 unit and\nsoftware and accessory Apple USB-C Power\nAdapters (18W Model A1720, 29W Model\nA1540, 30W Model A1882, 61W Model A1947,\nand 87W Model A1719). Testing conducted by\nApple in September 2020 using preproduction\niPhone 12 mini and iPhone 12 units and\nsoftware and accessory Apple USB-C Power\nAdapter (20W Model A2305). Testing\nconducted by Apple in August 2021 using\npreproduction iPhone 13 mini and Phone 13\nunits and software and accessory Apple USB-C\nPower Adapter (20W Model A2305). Testing\nconducted by Apple in February 2022 using\npreproduction iPhone SE (3rd generation) units\nand software and accessory Apple USB-C\nPower Adapter (20W Model A2305). Testing\nconducted by Apple in August 2022 using\npreproduction iPhone 14, iPhone 14 Plus,\niPhone 14 Pro, and iPhone 14 Pro Max units and\nsoftware and accessory Apple USB-C\nPower Adapter (20W Model A2305). Testing\nconducted by Apple in August 2023 using\npreproduction iPhone 15, iPhone 15 Plus,\niPhone 15 Pro, and iPhone 15 Pro Max units and\nsoftware and accessory Apple USB-C Power\nAdapter (20W Model A2305). Fast-charge\ntesting conducted with drained iPhone units.\nCharge time varies with settings and\nenvironmental factors; actual results will vary.",
         "contentBody2": "You need a 20W or higher power adapter to\nfast-charge your iPhone 12 and later.",
-        "contentBody3": "",
+        "contentBody3": ""
     },
     {
         "id": 1011,
         "contentTitle": "Feature Availability",
         "contentBody1": "Some features may not be available in all\ncountries or all areas. See apple.com/hk/en/ios/\nfeature-availability for complete list.",
         "contentBody2": "",
-        "contentBody3": "",
+        "contentBody3": ""
     },
     {
         "id": 1012,
         "contentTitle": "Power and Battery",
         "contentBody1": "All battery claims depend on network\nconfiguration and many other factors;\nactual results will vary. Battery has limited\nrecharge cycles and may eventually need to\nbe replaced by Apple service provider.\nBattery life and charge cycles vary by use\nand settings. See apple.com/hk/en/\nbatteries and apple.com/hk/en/iphone/\nbattery.html for more information.",
         "contentBody2": "",
-        "contentBody3": "",
+        "contentBody3": ""
     },
     {
         "id": 1013,
         "contentTitle": "iPhone Pricing",
         "contentBody1": "Certain pricing of the iPhone requires purchase\nof a specific plan as offered by the service\nproviders. Please see a Specialist for details.\nSuch plans are offered by the service providers\nas independent third parties. Service may not\nbe available in all areas or at the signal\nstrength, rates, speeds, or bandwidth as\ndemonstrated. Wi-Fi internet access required\nfor some features; broadband recommended;\nfees may apply. Some applications, features,\nand services are not available in all areas.\nWarranty information available at apple.com/hk/\nen/legal/warranty. When available, transferring\nyour mobile number to a different service\nprovider will terminate your service with your\nexisting provider; termination fees and other\ncharges may apply. Some features may require\nadded fees. Contact your service provider for\nmore details. Use constitutes acceptance of\nApple's software license agreement and third-\nparty terms located in the iPhone box.\nUnauthorized modification of your iPhone\nsoftware violates the software license\nagreement. Inability to use an iPhone due to\nunauthorized modifications is not covered\nunder your warranty.",
         "contentBody2": "",
-        "contentBody3": "",
+        "contentBody3": ""
     },
     {
         "id": 1014,
         "contentTitle": "Honkai Star Rail Availability",
         "contentBody1": "Game improvements shown will be available\nlater this year.",
         "contentBody2": "",
-        "contentBody3": "",
+        "contentBody3": ""
     },
     {
         "id": 1015,
         "contentTitle": "MagSafe",
         "contentBody1": "Accessories sold separately.",
         "contentBody2": "",
-        "contentBody3": "",
+        "contentBody3": ""
     },
     {
         "id": 1016,
         "contentTitle": "Performance",
         "contentBody1": "Performance claims based on comparison with\nthe previous generation.",
         "contentBody2": "",
-        "contentBody3": "",
+        "contentBody3": ""
     },
     {
         "id": 1017,
         "contentTitle": "(PRODUCT)RED",
         "contentBody1": "A portion of the proceeds from every\n(PRODUCT)RED purchase goes to the Global\nFund to fight AIDS and mitigate the impact of\nCOVID-19 with (RED). See apple.com/hk/en/\nproduct-red for more information.",
         "contentBody2": "",
-        "contentBody3": "",
+        "contentBody3": ""
     },
     {
         "id": 1018,
         "contentTitle": "Siri",
         "contentBody1": "Siri may not be available in all languages or in\nall areas, and features may vary by area.\nInternet access required. Cellular data charges\nmay apply. Siri has been optimized for\nCantonese in Hong Kong.",
         "contentBody2": "",
-        "contentBody3": "",
+        "contentBody3": ""
     },
     {
         "id": 1019,
         "contentTitle": "Size and Weight",
         "contentBody1": "Size and weight vary by configuration and\nmanufacturing process.",
         "contentBody2": "",
-        "contentBody3": "",
+        "contentBody3": ""
     },
     {
         "id": 1020,
         "contentTitle": "Splash, Water, and Dust Resistance",
         "contentBody1": "iPhone SE (3rd generation), iPhone 11,\niPhone 12, iPhone 13, iPhone 13 mini,\niPhone 14 Pro, iPhone 14 Pro Max, iPhone 14,\niPhone 14 Plus, iPhone 15 Pro,\niPhone 15 Pro Max, iPhone 15, and\niPhone 15 Plus are splash, water, and dust\nresistant and were tested under controlled\nlaboratory conditions; iPhone 12, iPhone 13,\niPhone 13 mini, iPhone 14 Pro,\niPhone 14 Pro Max, iPhone 14, and\niPhone 14 Plus, iPhone 15 Pro,\niPhone 15 Pro Max, iPhone 15, and\niPhone 15 Plus have a rating of IP68 under EC\nstandard 60529 (maximum depth of 6 meters\nup to 30 minutes); iPhone 11 has a rating of\nIP68 under IEC standard 60529 (maximum\ndepth of 2 meters up to 30 minutes); and\niPhone SE (3rd generation) has a rating of IP67\nunder IEC standard 60529 (maximum depth of\n1 meter up to 30 minutes). Splash, water, and\ndust resistance are not permanent conditions.\nResistance might decrease as a result of\nnormal wear. Do not attempt to charge a wet\niPhone; refer to the user guide for cleaning and\ndrying instructions. Liquid damage not covered\nunder warranty.",
         "contentBody2": "",
-        "contentBody3": "",
+        "contentBody3": ""
     },
     {
         "id": 1021,
         "contentTitle": "Storage Capacity",
         "contentBody1": "Available space is less and varies due to many\nfactors. A standard configuration uses\napproximately 12GB to 17GB of space,\nincluding iOS 15 with its latest features and\nApple apps that can be deleted. Apple apps\nthat can be deleted use about 4.5GB of space,\nand you can download them back from the App\nStore. Storage capacity subject to change\nbased on software version, settings, and\niPhone model.",
         "contentBody2": "",
-        "contentBody3": "",
+        "contentBody3": ""
     },
     {
         "id": 1022,
         "contentTitle": "Ultra Wideband",
         "contentBody1": "Ultra Wideband availability varies by region.",
         "contentBody2": "",
-        "contentBody3": "",
+        "contentBody3": ""
     },
     {
         "id": 1023,
         "contentTitle": "USB-C",
         "contentBody1": "The USB-C Charge Cable included with\niPhone 15 models is compatible with AirPods\nPro (2nd generation) with MagSafe Charging\nCase (USB-C).",
         "contentBody2": "",
-        "contentBody3": "",
+        "contentBody3": ""
     },
     {
         "id": 1024,
         "contentTitle": "USB 3",
         "contentBody1": "USB 3 cable with 10Gb/s speed required for up\nto 20x faster transfers on iPhone 15 Pro\nmodels.",
         "contentBody2": "",
-        "contentBody3": "",
+        "contentBody3": ""
     },
     {
         "id": 1025,
         "contentTitle": "What's in the Box",
         "contentBody1": "As part of Apple's efforts to reach carbon\nneutrality by 2030, iPhone 15 Pro Max,\niPhone 15 Pro, iPhone 15, iPhone 15 Plus,\niPhone 14, iPhone 14 Plus, iPhone 13 and\niPhone SE (3rd generation) do not include a\npower adapter or EarPods. Apple encourages\nyou to use any compatible power adapter. If\nyou need a new Apple power adapter or\nheadphones, please purchase these\naccessories separately.",
         "contentBody2": "",
-        "contentBody3": "",
+        "contentBody3": ""
     },
     {
         "id": 1026,
         "contentTitle": "Wi-Fi 6E",
         "contentBody1": "Wi-Fi 6E available in countries and regions\nwhere supported.",
         "contentBody2": "",
-        "contentBody3": "",
+        "contentBody3": ""
     },
     {
         "id": 1027,
         "contentTitle": "Wireless Charging",
         "contentBody1": "Wireless chargers sold separately.",
         "contentBody2": "",
-        "contentBody3": "",
+        "contentBody3": ""
     },
     {
         "id": 1028,
         "contentTitle": "AppleCare+ for iPhone",
         "contentBody1": "AppleCare+ benefits are separate from and in\naddition to the Apple Limited Warranty and any\nlegal rights provided by consumer protection\nlaws in your jurisdiction. AppleCare+ for iPhone is subject to acceptance of the Terms and\nConditions. AppleCare+ must be purchased\nwithin 60 days of the date you bought your\nnew iPhone and provides up to two years of\ncoverage from your AppleCare+ purchase date.\nPurchase of AppleCare+ is not required to\npurchase an iPhone.",
         "contentBody2": "Service coverage is available only for iPhone\nand its original included accessories for\nprotection against (i) batteries that retain less\nthan 80% of their original capacity, and (ii)\nunlimited incidents of accidental damage from\nhandling, with each incident subject to a\nservice fee of HK$228 for screen or back glass\ndamage, or HK$788 for other accidental\ndamage. The back glass damage service fee is\nonly available for iPhone 12, iPhone 13, iPhone\n14, and iPhone 15 models. Coverage begins on\nyour AppleCare+ purchase date. Replacement\nequipment that Apple provides as part of the\nrepair or replacement service may contain new\nor previously used genuine Apple parts that\nhave been tested and pass Apple functional\nrequirements. See terms at apple.com/hk/en/\nlegal/sales-support/applecare/applecareplus/\napac-en for full details.",
-        "contentBody3": "In Hong Kong, Apple Asia Limited (“Apple”) is\nthe obligor in relation to all obligations under\nthis Plan apart from the Accidental Damage\nfrom Handling coverage. For the Accidental\nDamage from Handling coverage, AIG\nInsurance Hong Kong Limited (AIG HK) is the\ninsurer under this Plan pursuant to a master\nagreement between Apple and AIG HK, under\nwhich such coverage is included as part of the\nPlan. Apple purchases this coverage from AIG\nHK as counterparty to the master agreement.\nApple is not a licensed insurance agent and\ndoes not provide any advice in relation to the\ninsurance coverage provided by AIG HK under\nthe Plan.",
+        "contentBody3": "In Hong Kong, Apple Asia Limited (“Apple”) is\nthe obligor in relation to all obligations under\nthis Plan apart from the Accidental Damage\nfrom Handling coverage. For the Accidental\nDamage from Handling coverage, AIG\nInsurance Hong Kong Limited (AIG HK) is the\ninsurer under this Plan pursuant to a master\nagreement between Apple and AIG HK, under\nwhich such coverage is included as part of the\nPlan. Apple purchases this coverage from AIG\nHK as counterparty to the master agreement.\nApple is not a licensed insurance agent and\ndoes not provide any advice in relation to the\ninsurance coverage provided by AIG HK under\nthe Plan."
     }
 ]
