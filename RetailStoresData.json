@@ -167,144 +167,144 @@
         "address": "10600 North Tantau Avenue\nCupertino, CA 95014",
         "phoneNumber": "(408) 961-1560"
     },
-     {
-         "storeID": "R051",
-         "name": "Third Street Promenade",
-         "city": "Santa Monica",
-         "state": "California",
-         "id": 1013,
-         "coordinates": {
-             "longitude": 118.49530,
-             "latitude": 34.01542
-         },
-         "imageName": "https://swiftgitdeveloper.github.io/AppleStoreImage/thirdstreetpromenade.png",
-         "address": "1415 Third Street Promenade\nSanta Monica, CA 90401",
-         "phoneNumber": "(310) 633-2670"
+    {
+        "storeID": "R051",
+        "name": "Third Street Promenade",
+        "city": "Santa Monica",
+        "state": "California",
+        "id": 1013,
+        "coordinates": {
+            "longitude": 118.49530,
+            "latitude": 34.01542
+        },
+        "imageName": "https://swiftgitdeveloper.github.io/AppleStoreImage/thirdstreetpromenade.png",
+        "address": "1415 Third Street Promenade\nSanta Monica, CA 90401",
+        "phoneNumber": "(310) 633-2670"
     },
     {
-         "storeID": "R050",
-         "name": "Apple The Grove",
-         "city": "Los Angeles",
-         "state": "California",
-         "id": 1014,
-         "coordinates": {
-             "longitude": -118.357473,
-             "latitude": 34.071690
-         },
-         "imageName": "https://swiftgitdeveloper.github.io/AppleStoreImage/thegrove.png",
-         "address": "189 The Grove Drive\nLos Angeles, CA 90036",
-         "phoneNumber": "(323) 617-9800"
-     },
-     {
-         "storeID": "R124",
-         "name": "Apple Beverly Center",
-         "city": "Los Angeles",
-         "state": "California",
-         "id": 1015,
-         "coordinates": {
-             "longitude": -118.377217,
-             "latitude": 34.074885
-         },
-         "imageName": "https://swiftgitdeveloper.github.io/AppleStoreImage/beverlycenter.png",
-         "address": "8500 Beverly Boulevard\nLos Angeles, CA 90048",
-         "phoneNumber": "(424) 239-3880"
-     },
-     {
-         "storeID": "R720",
-         "name": "Apple Tower Theatre",
-         "city": "Los Angeles",
-         "state": "California",
-         "id": 1016,
-         "coordinates": {
-             "longitude": -118.254664,
-             "latitude": 34.043549
-         },
-         "imageName": "https://swiftgitdeveloper.github.io/AppleStoreImage/appletowertheatre.png",
-         "address": "802 S Broadway\nLos Angeles, CA 90014",
-         "phoneNumber": "(213) 655-1200"
-     },
-     {
-         "storeID": "R095",
-         "name": "Apple Fifth Avenue",
-         "city": "New York City",
-         "state": "New York",
-         "id": 1017,
-         "coordinates": {
-             "longitude": -73.972988,
-             "latitude": 40.763842
-         },
-         "imageName": "https://swiftgitdeveloper.github.io/AppleStoreImage/applefifthavenue.png",
-         "address": "767 Fifth Avenue\nNew York, NY 10153",
-         "phoneNumber": "(212) 336-1440"
+        "storeID": "R050",
+        "name": "Apple The Grove",
+        "city": "Los Angeles",
+        "state": "California",
+        "id": 1014,
+        "coordinates": {
+            "longitude": -118.357473,
+            "latitude": 34.071690
+        },
+        "imageName": "https://swiftgitdeveloper.github.io/AppleStoreImage/thegrove.png",
+        "address": "189 The Grove Drive\nLos Angeles, CA 90036",
+        "phoneNumber": "(323) 617-9800"
     },
-     {
-         "storeID": "R075",
-         "name": "Apple Union Square",
-         "city": "San Francisco",
-         "state": "California",
-         "id": 1018,
-         "coordinates": {
-             "longitude": -122.407174,
-             "latitude": 37.788570
-         },
-         "imageName": "https://swiftgitdeveloper.github.io/AppleStoreImage/appleunionsquare.png",
-         "address": "300 Post Street\nSan Francisco, CA 94108",
-         "phoneNumber": "(415) 486-4800"
+    {
+        "storeID": "R124",
+        "name": "Apple Beverly Center",
+        "city": "Los Angeles",
+        "state": "California",
+        "id": 1015,
+        "coordinates": {
+            "longitude": -118.377217,
+            "latitude": 34.074885
+        },
+        "imageName": "https://swiftgitdeveloper.github.io/AppleStoreImage/beverlycenter.png",
+        "address": "8500 Beverly Boulevard\nLos Angeles, CA 90048",
+        "phoneNumber": "(424) 239-3880"
     },
-     {
-         "storeID": "R284",
-         "name": "Apple Lincoln Park",
-         "city": "Chicago",
-         "state": "Illinois",
-         "id": 1019,
-         "coordinates": {
-             "longitude": -87.648526,
-             "latitude": 41.910523,
-         },
-         "imageName": "https://swiftgitdeveloper.github.io/AppleStoreImage/applelincolnpark.png",
-         "address": "801 W. North Avenue\nChicago, IL 60642",
-         "phoneNumber": "(312) 777-4200"
+    {
+        "storeID": "R720",
+        "name": "Apple Tower Theatre",
+        "city": "Los Angeles",
+        "state": "California",
+        "id": 1016,
+        "coordinates": {
+            "longitude": -118.254664,
+            "latitude": 34.043549
+        },
+        "imageName": "https://swiftgitdeveloper.github.io/AppleStoreImage/appletowertheatre.png",
+        "address": "802 S Broadway\nLos Angeles, CA 90014",
+        "phoneNumber": "(213) 655-1200"
     },
-     {
-         "storeID": "R317",
-         "name": "Apple State Street",
-         "city": "Santa Barbara",
-         "state": "California",
-         "id": 1020,
-         "coordinates": {
-             "longitude": -119.701399,
-             "latitude": 34.421301
-         },
-         "imageName": "https://swiftgitdeveloper.github.io/AppleStoreImage/applestatestreet.png",
-         "address": "928 State Street\nSanta Barbara, CA 93101",
-         "phoneNumber": "(805) 560-1500"
+    {
+        "storeID": "R095",
+        "name": "Apple Fifth Avenue",
+        "city": "New York City",
+        "state": "New York",
+        "id": 1017,
+        "coordinates": {
+            "longitude": -73.972988,
+            "latitude": 40.763842
+        },
+        "imageName": "https://swiftgitdeveloper.github.io/AppleStoreImage/applefifthavenue.png",
+        "address": "767 Fifth Avenue\nNew York, NY 10153",
+        "phoneNumber": "(212) 336-1440"
     },
-     {
-         "storeID": "R415",
-         "name": "Apple Grand Central",
-         "city": "New York City",
-         "state": "New York",
-         "id": 1021,
-         "coordinates": {
-             "longitude": -73.976907,
-             "latitude": 40.752733
-         },
-         "imageName": "https://swiftgitdeveloper.github.io/AppleStoreImage/applegrandcentral.png",
-         "address": "45 Grand Central Terminal\nNew York, NY 10017",
-         "phoneNumber": "(212) 284-1800"
+    {
+        "storeID": "R075",
+        "name": "Apple Union Square",
+        "city": "San Francisco",
+        "state": "California",
+        "id": 1018,
+        "coordinates": {
+            "longitude": -122.407174,
+            "latitude": 37.788570
+        },
+        "imageName": "https://swiftgitdeveloper.github.io/AppleStoreImage/appleunionsquare.png",
+        "address": "300 Post Street\nSan Francisco, CA 94108",
+        "phoneNumber": "(415) 486-4800"
     },
-     {
-         "storeID": "R654",
-         "name": "Apple World Trade Center",
-         "city": "New York City",
-         "state": "New York",
-         "id": 1022,
-         "coordinates": {
-             "longitude": -74.011450,
-             "latitude": 40.711822
-         },
-         "imageName": "https://swiftgitdeveloper.github.io/AppleStoreImage/appleworldtradecenter.png",
-         "address": "185 Greenwich Street\nNew York, NY 10007",
-         "phoneNumber": "(646) 802-3800"
+    {
+        "storeID": "R284",
+        "name": "Apple Lincoln Park",
+        "city": "Chicago",
+        "state": "Illinois",
+        "id": 1019,
+        "coordinates": {
+            "longitude": -87.648526,
+            "latitude": 41.910523
+        },
+        "imageName": "https://swiftgitdeveloper.github.io/AppleStoreImage/applelincolnpark.png",
+        "address": "801 W. North Avenue\nChicago, IL 60642",
+        "phoneNumber": "(312) 777-4200"
+    },
+    {
+        "storeID": "R317",
+        "name": "Apple State Street",
+        "city": "Santa Barbara",
+        "state": "California",
+        "id": 1020,
+        "coordinates": {
+            "longitude": -119.701399,
+            "latitude": 34.421301
+        },
+        "imageName": "https://swiftgitdeveloper.github.io/AppleStoreImage/applestatestreet.png",
+        "address": "928 State Street\nSanta Barbara, CA 93101",
+        "phoneNumber": "(805) 560-1500"
+    },
+    {
+        "storeID": "R415",
+        "name": "Apple Grand Central",
+        "city": "New York City",
+        "state": "New York",
+        "id": 1021,
+        "coordinates": {
+            "longitude": -73.976907,
+            "latitude": 40.752733
+        },
+        "imageName": "https://swiftgitdeveloper.github.io/AppleStoreImage/applegrandcentral.png",
+        "address": "45 Grand Central Terminal\nNew York, NY 10017",
+        "phoneNumber": "(212) 284-1800"
+    },
+    {
+        "storeID": "R654",
+        "name": "Apple World Trade Center",
+        "city": "New York City",
+        "state": "New York",
+        "id": 1022,
+        "coordinates": {
+            "longitude": -74.011450,
+            "latitude": 40.711822
+        },
+        "imageName": "https://swiftgitdeveloper.github.io/AppleStoreImage/appleworldtradecenter.png",
+        "address": "185 Greenwich Street\nNew York, NY 10007",
+        "phoneNumber": "(646) 802-3800"
     }
 ]
