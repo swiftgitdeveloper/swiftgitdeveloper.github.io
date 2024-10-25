@@ -474,7 +474,7 @@
         "subName": "",
         "imageName": "https://swiftgitdeveloper.github.io/ImageAsset/iphone12purple.png",
         "isNewModel": false,
-        "canCompare": false,
+        "canCompare": true,
         "canTradeIn": true,
         "height": 150,
         "finish": ["Blue", "Purple", "Green", "White", "Black", "(PRODUCT)RED"],
