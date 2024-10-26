@@ -1,125 +1,118 @@
 [
     {
         "id": 1001,
-        "contentTitle": "Battery Life",
-        "contentBody1": "All battery claims depend on network\nconfiguration and many other factors; actual\nresults will vary. Battery has limited recharge\ncycles and may eventually need to be replaced\nby Apple service provider. Battery life and\ncharge cycles vary by use and settings. See\napple.com/hk/en/batteries and apple.com/hk/\nen/iphone/battery.html for more information.",
+        "contentTitle": "Apple Intelligence",
+        "contentBody1": "Apple Intelligence will be available in beta\non all iPhone 16 models, iPhone 15 Pro,\niPhone 15 Pro Max, with Siri and device language\nset to U.S. English, as an iOS 18 update in late 2024.\nSome features and additional languages will be coming over the course of the next year.",
         "contentBody2": "",
         "contentBody3": ""
     },
     {
         "id": 1002,
-        "contentTitle": "Cellular and Wireless",
-        "contentBody1": "Data plan required. 5G, Gigabit LTE, LTE,\nVoLTE, and Wi-Fi calling are available in select\nmarkets and through select carriers. Speeds\nare based on theoretical throughput and vary\nbased on site conditions and carrier. For details\non 5G and LTE support, contact your carrier\nand see apple.com/hk/en/iphone/cellular.",
+        "contentTitle": "Apple Pay",
+        "contentBody1": "Apple Pay is a service provided by certain Apple\naffiliates, as designated by the Apple Pay privacy\nnotice apple.com/legal/privacy/data/en/apple-pay.\nNeither Apple Inc. nor its affiliates are a bank. Any\ncard used in Apple Pay is offered by the card issuer.\nTo use Apple Pay you need a supported card from\na participating card issuer. To check if your card\nis compatible with Apple Pay, contact your card\nissuer. Apple Pay is not available in all markets.\nView Apple Pay countries and regions apple.com/\nios/feature-availability/#apple-pay. Features are\nsubject to change. Some features, applications,\nand services may not be available in all regions or\nall languages and may require specific hardware\nand software. For more information, see Feature\nAvailability apple.com/ios/feature-availability/#\napple-pay.",
         "contentBody2": "",
         "contentBody3": ""
     },
     {
         "id": 1003,
-        "contentTitle": "Crash Detection",
-        "contentBody1": "iPhone 14 and iPhone 15 models can detect a\nsevere car crash and call for help. Requires a\ncellular connection or Wi-Fi calling.",
+        "contentTitle": "Battery Life",
+        "contentBody1": "All battery claims depend on network configuration\nand many other factors; actual results will vary.\nBattery has limited recharge cycles and may\neventually need to be replaced. Battery life and\ncharge cycles vary by use and settings. See apple.\ncom/hk/en/batteries and apple.com/hk/en/iphone/\nbattery.html for more information.",
         "contentBody2": "",
         "contentBody3": ""
     },
     {
         "id": 1004,
-        "contentTitle": "Display Size",
-        "contentBody1": "The display has rounded corners that follow a\nbeautiful curved design, and these corners are\nwithin a standard rectangle. When measured\nas a standard rectangular shape, the screen is\n5.42 inches (iPhone 13 mini, iPhone 12 mini),\n6.06 inches (iPhone 14, iPhone 13, iPhone 12,\niPhone 11), 6.12 inches (iPhone 15 Pro, iPhone\n15, iPhone 14 Pro), 6.68 inches (iPhone 14\nPlus), or 6.69 inches (iPhone 15 Pro Max,\niPhone 15 Plus, iPhone 14 Pro Max) diagonally.\nActual viewable area is less.",
+        "contentTitle": "Cellular and Wireless",
+        "contentBody1": "Data plan required. 5G, Gigabit LTE, LTE, VoLTE,\nand Wi-Fi calling are available in select markets\nand through select carriers. Speeds are based\non theoretical throughput and vary based on site\nconditions and carrier. For details on 5G and LTE\nsupport, contact your carrier and see apple.com/hk/\nen/iphone/cellular.",
         "contentBody2": "",
         "contentBody3": ""
     },
     {
         "id": 1005,
-        "contentTitle": "Drop Performance",
-        "contentBody1": "iPhone SE (3rd generation) has a better drop\nperformance compared to iPhone SE\n(2nd generation).",
+        "contentTitle": "Crash Detection",
+        "contentBody1": "iPhone 14, iPhone 15, iPhone 15 Pro, iPhone 16, and\niPhone 16 Pro can detect a severe car crash and\ncall for help. Requires a cellular connection or Wi-\nFi calling.",
         "contentBody2": "",
         "contentBody3": ""
     },
     {
         "id": 1006,
-        "contentTitle": "Dual SIM (nano-SIM)",
-        "contentBody1": "Dual SIM, dual standby. Data and voice SIM\nselectable in settings. Use of Dual SIM requires\ntwo wireless service plans (which may include\nrestrictions on roaming). Does not support\nsimultaneous use of two CDMA wireless\nservice plans. Not all carriers support Dual\nVoLTE. Certain restrictions apply. To learn\nmore, visit support.apple.com/en-hk/\nHT209086.",
+        "contentTitle": "Display Size",
+        "contentBody1": "The display has rounded corners that follow a\nbeautiful curved design, and these corners are\nwithin a standard rectangle. When measured as\na standard rectangular shape,the screen is 6.06\ninches (iPhone 14, iPhone 13, iPhone 12), 6.12\ninches (iPhone 16, iPhone 15 Pro, iPhone 15),\n6.27 inches (iPhone 16 Pro), 6.68 inches\n(iPhone 14 Plus), 6.69 inches (iPhone 16 Plus,\niPhone 15 Pro Max, iPhone 15 Plus), or 6.86 inches\n(iPhone 16 Pro Max) diagonally. Actual viewable\narea is less.",
         "contentBody2": "",
         "contentBody3": ""
     },
     {
         "id": 1007,
         "contentTitle": "eSIM",
-        "contentBody1": "Use of eSIM requires a wireless service plan\n(which may include restrictions on switching\nservice providers and roaming, even after\ncontract expiration). Not all carriers support\neSIM. Use of eSIM in iPhone may be disabled\nwhen purchased from some carriers. See your\ncarrier for details. iPhone 13 mini supports Dual\nSIM (nano-SIM and eSIM). To learn more, visit\napple.com/hk/en/esim.",
+        "contentBody1": "Use of eSIM requires a wireless service plan\n(which may include restrictions on switching\nservice providers and roaming, even after contract\nexpiration). Not all carriers support eSIM. Use of\neSIM in iPhone may be disabled when purchased\nfrom some carriers. See your carrier for details. To\nlearn more, visit apple.com/hk/en/esim.",
         "contentBody2": "",
         "contentBody3": ""
     },
     {
         "id": 1008,
-        "contentTitle": "Express Transit",
-        "contentBody1": "Available only in select cities and transit\nsystems. Requires eligible device and OS\nversion. See support.apple.com/en-hk/\nHT209495 for details.",
+        "contentTitle": "Dual SIM, Dual Standby",
+        "contentBody1": "Data and voice SIM selectable in settings. Use\nof Dual SIM requires two wireless service plans\n(which may include restrictions on roaming). Not all\ncarriers support Dual VoLTE. Certain restrictions\napply. To learn more, visit support.apple.com/en-hk/\nHT209086.",
         "contentBody2": "",
         "contentBody3": ""
     },
     {
         "id": 1009,
-        "contentTitle": "FaceTime",
-        "contentBody1": "FaceTime calling requires a FaceTime-enabled\ndevice for the caller and recipient and a Wi-Fi\nconnection. Availability over a cellular network\ndepends on carrier policies; data charges may\napply.",
+        "contentTitle": "Express Transit",
+        "contentBody1": "Available only in select cities and transit systems.\nRequires eligible device and OS version. See\nsupport.apple.com/en-hk/HT209495 for details.",
         "contentBody2": "",
         "contentBody3": ""
     },
     {
         "id": 1010,
-        "contentTitle": "Fast-Charge Capable",
-        "contentBody1": "Testing conducted by Apple in August 2019\nusing preproduction iPhone 11 unit and\nsoftware and accessory Apple USB-C Power\nAdapters (18W Model A1720, 29W Model\nA1540, 30W Model A1882, 61W Model A1947,\nand 87W Model A1719). Testing conducted by\nApple in September 2020 using preproduction\niPhone 12 mini and iPhone 12 units and\nsoftware and accessory Apple USB-C Power\nAdapter (20W Model A2305). Testing\nconducted by Apple in August 2021 using\npreproduction iPhone 13 mini and Phone 13\nunits and software and accessory Apple USB-C\nPower Adapter (20W Model A2305). Testing\nconducted by Apple in February 2022 using\npreproduction iPhone SE (3rd generation) units\nand software and accessory Apple USB-C\nPower Adapter (20W Model A2305). Testing\nconducted by Apple in August 2022 using\npreproduction iPhone 14, iPhone 14 Plus,\niPhone 14 Pro, and iPhone 14 Pro Max units and\nsoftware and accessory Apple USB-C\nPower Adapter (20W Model A2305). Testing\nconducted by Apple in August 2023 using\npreproduction iPhone 15, iPhone 15 Plus,\niPhone 15 Pro, and iPhone 15 Pro Max units and\nsoftware and accessory Apple USB-C Power\nAdapter (20W Model A2305). Fast-charge\ntesting conducted with drained iPhone units.\nCharge time varies with settings and\nenvironmental factors; actual results will vary.",
-        "contentBody2": "You need a 20W or higher power adapter to\nfast-charge your iPhone 12 and later.",
+        "contentTitle": "FaceTime",
+        "contentBody1": "FaceTime calling requires a FaceTime-enabled\ndevice for the caller and recipient and a Wi-Fi\nconnection. Availability over a cellular network\ndepends on carrier policies; data charges\nmay apply.",
+        "contentBody2": "",
         "contentBody3": ""
     },
     {
         "id": 1011,
+        "contentTitle": "Fast-Charge Capable",
+        "contentBody1": "Testing conducted by Apple in September 2020\nusing preproduction iPhone 12 units and software\nand accessory Apple USB-C Power Adapter (20W\nModel A2305). Testing conducted by Apple\nin August 2021 using preproduction iPhone 13 units\nand software and accessory Apple USB-C Power\nAdapter (20W Model A2305). Testing conducted\nby Apple in February 2022 using preproduction\niPhone SE (3rd generation) units and software\nand accessory Apple USB-C Power Adapter (20W\nModel A2305). Testing conducted by Apple in\nAugust 2022 using preproduction iPhone 14 and\niPhone 14 Plus units and software and accessory\nApple USB-C Power Adapter (20W Model A2305).\nTesting conducted by Apple in August 2023\nusing preproduction iPhone 15, iPhone 15 Plus,\niPhone 15 Pro, and iPhone 15 Pro Max units and\nsoftware and accessory Apple USB-C Power\nAdapter (20W Model A2305). Testing conducted\nby Apple in August 2024 using preproduction\niPhone 16, iPhone 16 Plus, iPhone 16 Pro, and\niPhone 16 Pro Max units and software, USB-C\nCharge Cable with Apple USB-C Power Adapter\n(20W Model A2305), and Apple MagSafe Chargers\n(1-meter Model A2580 and 2-meter Model A3250)\nwith Apple USB-C Power Adapter (30W Model\nA2164). Fast-charge testing conducted with drained\niPhone units. Times measured from the appearance\nof the Apple logo as the unit started up. Charge\ntime varies with settings and environmental factors;\nactual results will vary.",
+        "contentBody2": "",
+        "contentBody3": ""
+    },
+    {
+        "id": 1012,
         "contentTitle": "Feature Availability",
         "contentBody1": "Some features may not be available in all\ncountries or all areas. See apple.com/hk/en/ios/\nfeature-availability for complete list.",
         "contentBody2": "",
         "contentBody3": ""
     },
     {
-        "id": 1012,
-        "contentTitle": "Power and Battery",
-        "contentBody1": "All battery claims depend on network\nconfiguration and many other factors;\nactual results will vary. Battery has limited\nrecharge cycles and may eventually need to\nbe replaced by Apple service provider.\nBattery life and charge cycles vary by use\nand settings. See apple.com/hk/en/\nbatteries and apple.com/hk/en/iphone/\nbattery.html for more information.",
-        "contentBody2": "",
-        "contentBody3": ""
-    },
-    {
         "id": 1013,
         "contentTitle": "iPhone Pricing",
-        "contentBody1": "Certain pricing of the iPhone requires purchase\nof a specific plan as offered by the service\nproviders. Please see a Specialist for details.\nSuch plans are offered by the service providers\nas independent third parties. Service may not\nbe available in all areas or at the signal\nstrength, rates, speeds, or bandwidth as\ndemonstrated. Wi-Fi internet access required\nfor some features; broadband recommended;\nfees may apply. Some applications, features,\nand services are not available in all areas.\nWarranty information available at apple.com/hk/\nen/legal/warranty. When available, transferring\nyour mobile number to a different service\nprovider will terminate your service with your\nexisting provider; termination fees and other\ncharges may apply. Some features may require\nadded fees. Contact your service provider for\nmore details. Use constitutes acceptance of\nApple's software license agreement and third-\nparty terms located in the iPhone box.\nUnauthorized modification of your iPhone\nsoftware violates the software license\nagreement. Inability to use an iPhone due to\nunauthorized modifications is not covered\nunder your warranty.",
+        "contentBody1": "Certain pricing of the iPhone requires purchase of\na specific plan as offered by the service providers.\nPlease see a Specialist for details. Such plans are\noffered by the service providers as independent\nthird parties. Service may not be available in all\nareas or at the signal strength, rates, speeds,\nor bandwidth as demonstrated. Wi-Fi internet\naccess required for some features; broadband\nrecommended; fees may apply. Some applications,\nfeatures, and services are not available in all areas.\nWarranty information available at apple.com/hk/\nen/legal/warranty. When available, transferring\nyour mobile number to a different service provider\nwill terminate your service with your existing\nprovider; termination fees and other charges may\napply. Some features may require added fees.\nContact your service provider for more details.\nUse constitutes acceptance of Apple's software\nlicense agreement and third-party terms located\nin the iPhone box. Unauthorized modification\nof your iPhone software violates the software\nlicense agreement. Inability to use an iPhone due\nto unauthorized modifications is not covered under\nyour warranty.",
         "contentBody2": "",
         "contentBody3": ""
     },
     {
         "id": 1014,
-        "contentTitle": "Honkai Star Rail Availability",
-        "contentBody1": "Game improvements shown will be available\nlater this year.",
-        "contentBody2": "",
-        "contentBody3": ""
-    },
-    {
-        "id": 1015,
         "contentTitle": "MagSafe",
         "contentBody1": "Accessories sold separately.",
         "contentBody2": "",
         "contentBody3": ""
     },
     {
-        "id": 1016,
-        "contentTitle": "Performance",
-        "contentBody1": "Performance claims based on comparison with\nthe previous generation.",
-        "contentBody2": "",
-        "contentBody3": ""
-    },
-    {
-        "id": 1017,
+        "id": 1015,
         "contentTitle": "(PRODUCT)RED",
         "contentBody1": "A portion of the proceeds from every\n(PRODUCT)RED purchase goes to the Global\nFund to fight AIDS and mitigate the impact of\nCOVID-19 with (RED). See apple.com/hk/en/\nproduct-red for more information.",
         "contentBody2": "",
         "contentBody3": ""
     },
     {
-        "id": 1018,
+        "id": 1016,
+        "contentTitle": "Qi and Qi2 Wireless Charging",
+        "contentBody1": "Wireless chargers sold separately.",
+        "contentBody2": "",
+        "contentBody3": ""
+    },
+    {
+        "id": 1017,
         "contentTitle": "Siri",
         "contentBody1": "Siri may not be available in all languages or in\nall areas, and features may vary by area.\nInternet access required. Cellular data charges\nmay apply. Siri has been optimized for\nCantonese in Hong Kong.",
         "contentBody2": "",
