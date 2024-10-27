@@ -100,7 +100,7 @@
     {
         "id": 1015,
         "contentTitle": "(PRODUCT)RED",
-        "contentBody1": "A portion of the proceeds from every\n(PRODUCT)RED purchase goes to the Global\nFund to fight AIDS and mitigate the impact of\nCOVID-19 with (RED). See apple.com/hk/en/\nproduct-red for more information.",
+        "contentBody1": "A portion of the proceeds from every (PRODUCT)\nRED purchase goes to the Global Fund to fight AIDS\nand to help fund critical health programs that save\nlives. See apple.com/hk/en/product-red for more\ninformation.",
         "contentBody2": "",
         "contentBody3": ""
     },
@@ -114,7 +114,7 @@
     {
         "id": 1017,
         "contentTitle": "Siri",
-        "contentBody1": "Siri may not be available in all languages or in\nall areas, and features may vary by area.\nInternet access required. Cellular data charges\nmay apply. Siri has been optimized for\nCantonese in Hong Kong.",
+        "contentBody1": "Siri may not be available in all languages or in all\nareas, and features may vary by area. Internet\naccess required. Cellular data charges may\napply. Siri has been optimized for Cantonese in\nHong Kong.",
         "contentBody2": "",
         "contentBody3": ""
     },
@@ -128,49 +128,49 @@
     {
         "id": 1020,
         "contentTitle": "Splash, Water, and Dust Resistance",
-        "contentBody1": "iPhone SE (3rd generation), iPhone 11,\niPhone 12, iPhone 13, iPhone 13 mini,\niPhone 14 Pro, iPhone 14 Pro Max, iPhone 14,\niPhone 14 Plus, iPhone 15 Pro,\niPhone 15 Pro Max, iPhone 15, and\niPhone 15 Plus are splash, water, and dust\nresistant and were tested under controlled\nlaboratory conditions; iPhone 12, iPhone 13,\niPhone 13 mini, iPhone 14 Pro,\niPhone 14 Pro Max, iPhone 14, and\niPhone 14 Plus, iPhone 15 Pro,\niPhone 15 Pro Max, iPhone 15, and\niPhone 15 Plus have a rating of IP68 under EC\nstandard 60529 (maximum depth of 6 meters\nup to 30 minutes); iPhone 11 has a rating of\nIP68 under IEC standard 60529 (maximum\ndepth of 2 meters up to 30 minutes); and\niPhone SE (3rd generation) has a rating of IP67\nunder IEC standard 60529 (maximum depth of\n1 meter up to 30 minutes). Splash, water, and\ndust resistance are not permanent conditions.\nResistance might decrease as a result of\nnormal wear. Do not attempt to charge a wet\niPhone; refer to the user guide for cleaning and\ndrying instructions. Liquid damage not covered\nunder warranty.",
+        "contentBody1": "iPhone SE (3rd generation), iPhone 12, iPhone 13,\niPhone 14, iPhone 14 Plus, iPhone 15 Pro,\niPhone 15 Pro Max, iPhone 15, iPhone 15 Plus,\niPhone 16 Pro, iPhone 16 Pro Max, iPhone 16, and\niPhone 16 Plus are splash, water, and dust resistant\nand were tested under controlled laboratory\nconditions; iPhone 12, iPhone 13, iPhone 14,\niPhone 14 Plus, iPhone 15 Pro, iPhone 15 Pro Max,\niPhone 15, iPhone 15 Plus, iPhone 16 Pro,\niPhone 16 Pro Max, iPhone 16, and iPhone 16 Plus\nhave a rating of IP68 under IEC standard 60529\n(maximum depth of 6 meters up to 30 minutes);\nand iPhone SE (3rd generation) has a rating of\nIP67 under IEC standard 60529 (maximum depth\nof 1 meter up to 30 minutes). Splash, water, and\ndust resistance are not permanent conditions.\nResistance might decrease as a result of normal\nwear. Do not attempt to charge a wet iPhone;\nrefer to the user guide for cleaning and drying\ninstructions. Liquid damage not covered under\nwarranty.",
         "contentBody2": "",
         "contentBody3": ""
     },
     {
         "id": 1021,
         "contentTitle": "Storage Capacity",
-        "contentBody1": "Available space is less and varies due to many\nfactors. A standard configuration uses\napproximately 12GB to 17GB of space,\nincluding iOS 15 with its latest features and\nApple apps that can be deleted. Apple apps\nthat can be deleted use about 4.5GB of space,\nand you can download them back from the App\nStore. Storage capacity subject to change\nbased on software version, settings, and\niPhone model.",
+        "contentBody1": "Available space is less and varies due to\nmany factors. A standard configuration uses\napproximately 12GB to 17GB of space, including\niOS 18 with its latest features and Apple apps that\ncan be deleted. Apple apps that can be deleted use\nabout 4.5GB of space, and you can download them\nback from the App Store. Storage capacity subject\nto change based on software version, settings, and\niPhone model.",
         "contentBody2": "",
         "contentBody3": ""
     },
     {
         "id": 1022,
+        "contentTitle": "Thinnest Borders",
+        "contentBody1": "Thinnest borders claim based on comparison with\nthe previous generation.",
+        "contentBody2": "",
+        "contentBody3": ""
+    },
+    {
+        "id": 1023,
         "contentTitle": "Ultra Wideband",
         "contentBody1": "Ultra Wideband availability varies by region.",
         "contentBody2": "",
         "contentBody3": ""
     },
     {
-        "id": 1023,
-        "contentTitle": "USB-C",
-        "contentBody1": "The USB-C Charge Cable included with\niPhone 15 models is compatible with AirPods\nPro (2nd generation) with MagSafe Charging\nCase (USB-C).",
-        "contentBody2": "",
-        "contentBody3": ""
-    },
-    {
         "id": 1024,
         "contentTitle": "USB 3",
-        "contentBody1": "USB 3 cable with 10Gb/s speed required for up\nto 20x faster transfers on iPhone 15 Pro\nmodels.",
+        "contentBody1": "USB 3 cable with 10Gb/s speed required for up\nto 20x faster transfers on iPhone 16 Pro and\niPhone 15 Pro models.",
         "contentBody2": "",
         "contentBody3": ""
     },
     {
         "id": 1025,
         "contentTitle": "What's in the Box",
-        "contentBody1": "As part of Apple's efforts to reach carbon\nneutrality by 2030, iPhone 15 Pro Max,\niPhone 15 Pro, iPhone 15, iPhone 15 Plus,\niPhone 14, iPhone 14 Plus, iPhone 13 and\niPhone SE (3rd generation) do not include a\npower adapter or EarPods. Apple encourages\nyou to use any compatible power adapter. If\nyou need a new Apple power adapter or\nheadphones, please purchase these\naccessories separately.",
+        "contentBody1": "As part of Apple's efforts to reach carbon neutrality\nby 2030, iPhone 16 Pro Max, iPhone 16 Pro,\niPhone 16 Plus, iPhone 16, iPhone 15 Pro Max,\niPhone 15 Pro, iPhone 15, iPhone 15 Plus, iPhone 14,\niPhone 14 Plus, iPhone 13, iPhone 12, and iPhone SE\n(3rd generation) do not include a power adapter\nor EarPods. Apple encourages you to use any\ncompatible power adapter. If you need a new Apple\npower adapter or headphones, please purchase\nthese accessories separately.",
         "contentBody2": "",
         "contentBody3": ""
     },
     {
         "id": 1026,
-        "contentTitle": "Wi-Fi 6E",
-        "contentBody1": "Wi-Fi 6E available in countries and regions\nwhere supported.",
+        "contentTitle": "Wi-Fi 6E and Wi-Fi 7",
+        "contentBody1": "Wi-Fi 6E and Wi-Fi 7 available in countries and\nregions where supported.",
         "contentBody2": "",
         "contentBody3": ""
     },
@@ -184,8 +184,10 @@
     {
         "id": 1028,
         "contentTitle": "AppleCare+ for iPhone",
-        "contentBody1": "AppleCare+ benefits are separate from and in\naddition to the Apple Limited Warranty and any\nlegal rights provided by consumer protection\nlaws in your jurisdiction. AppleCare+ for iPhone is subject to acceptance of the Terms and\nConditions. AppleCare+ must be purchased\nwithin 60 days of the date you bought your\nnew iPhone and provides up to two years of\ncoverage from your AppleCare+ purchase date.\nPurchase of AppleCare+ is not required to\npurchase an iPhone.",
-        "contentBody2": "Service coverage is available only for iPhone\nand its original included accessories for\nprotection against (i) batteries that retain less\nthan 80% of their original capacity, and (ii)\nunlimited incidents of accidental damage from\nhandling, with each incident subject to a\nservice fee of HK$228 for screen or back glass\ndamage, or HK$788 for other accidental\ndamage. The back glass damage service fee is\nonly available for iPhone 12, iPhone 13, iPhone\n14, and iPhone 15 models. Coverage begins on\nyour AppleCare+ purchase date. Replacement\nequipment that Apple provides as part of the\nrepair or replacement service may contain new\nor previously used genuine Apple parts that\nhave been tested and pass Apple functional\nrequirements. See terms at apple.com/hk/en/\nlegal/sales-support/applecare/applecareplus/\napac-en for full details.",
-        "contentBody3": "In Hong Kong, Apple Asia Limited (“Apple”) is\nthe obligor in relation to all obligations under\nthis Plan apart from the Accidental Damage\nfrom Handling coverage. For the Accidental\nDamage from Handling coverage, AIG\nInsurance Hong Kong Limited (AIG HK) is the\ninsurer under this Plan pursuant to a master\nagreement between Apple and AIG HK, under\nwhich such coverage is included as part of the\nPlan. Apple purchases this coverage from AIG\nHK as counterparty to the master agreement.\nApple is not a licensed insurance agent and\ndoes not provide any advice in relation to the\ninsurance coverage provided by AIG HK under\nthe Plan."
+        "contentBody1": "AppleCare+ benefits are separate from and in\naddition to the Apple Limited Warranty and any\nlegal rights provided by consumer protection\nlaws in your jurisdiction. AppleCare+ for iPhone is\nsubject to acceptance of the Terms and Conditions.\nAppleCare+ must be purchased within 60 days of\nthe date you bought your new iPhone and provides\nup to two years of coverage from your AppleCare+\npurchase date. Purchase of AppleCare+ is not\nrequired to purchase an iPhone.",
+        
+        "contentBody2": "Service coverage is available only for iPhone and\nits original included accessories for protection\nagainst (i) batteries that retain less than 80% of\ntheir original capacity, and (ii) unlimited incidents\nof accidental damage from handling, with each\nincident subject to a service fee of HK$228 for\nscreen or back glass damage, or HK$788 for\nother accidental damage. The back glass damage\nservice fee is only available for iPhone 12, iPhone\n13, iPhone 14, iPhone 15 and iPhone 16 models.\nCoverage begins on your AppleCare+ purchase\ndate. Replacement equipment that Apple provides\nas part of the repair or replacement service\nmay contain new or previously used genuine Apple parts\nthat have been tested and pass Apple functional\nrequirements. See terms at apple.com/hk/en/legal/\nsales-support/applecare/applecareplus/apac-en for\nfull details.",
+        
+        "contentBody3": "In Hong Kong, Apple Asia Limited (“Apple”) is the\nobligor in relation to all obligations under this Plan\napart from the Accidental Damage from Handling\ncoverage. For the Accidental Damage from Handling\ncoverage, AIG Insurance Hong Kong Limited (AIG\nHK) is the insurer under this Plan pursuant to a\nmaster agreement between Apple and AIG HK,\nunder which such coverage is included as part\nof the Plan. Apple purchases this coverage from\nAIG HK as counterparty to the master agreement.\nApple is not a licensed insurance agent and does\nnot provide any advice in relation to the insurance\ncoverage provided by AIG HK under the Plan."
     }
 ]
